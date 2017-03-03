@@ -23,6 +23,9 @@ namespace claendermockup
         {
             Form2 frm = new Form2();
             frm.Show();
+
+            //function call to load treeNode objects from democode or text file
+            treeView1.Nodes.Add(CatalogLoad.Load());
         }
 
         //allows dragging from treeview.  
