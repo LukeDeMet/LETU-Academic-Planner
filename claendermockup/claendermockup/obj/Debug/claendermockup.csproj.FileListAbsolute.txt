@@ -28,3 +28,13 @@ C:\Users\luked\Desktop\LETU-Academic-Planner-master\claendermockup\claendermocku
 C:\Users\luked\Desktop\LETU-Academic-Planner-master\claendermockup\claendermockup\obj\Debug\claendermockup.Form2.resources
 C:\Users\luked\Desktop\LETU-Academic-Planner-master\claendermockup\claendermockup\obj\Debug\claendermockup.Properties.Resources.resources
 C:\Users\luked\Desktop\LETU-Academic-Planner-master\claendermockup\claendermockup\obj\Debug\claendermockup.csproj.GenerateResource.Cache
+C:\Users\luked\OneDrive\Documents\GitHub\LETU-Academic-Planner\claendermockup\claendermockup\bin\Debug\claendermockup.exe.config
+C:\Users\luked\OneDrive\Documents\GitHub\LETU-Academic-Planner\claendermockup\claendermockup\obj\Debug\claendermockup.exe
+C:\Users\luked\OneDrive\Documents\GitHub\LETU-Academic-Planner\claendermockup\claendermockup\obj\Debug\claendermockup.pdb
+C:\Users\luked\OneDrive\Documents\GitHub\LETU-Academic-Planner\claendermockup\claendermockup\bin\Debug\claendermockup.exe
+C:\Users\luked\OneDrive\Documents\GitHub\LETU-Academic-Planner\claendermockup\claendermockup\bin\Debug\claendermockup.pdb
+C:\Users\luked\OneDrive\Documents\GitHub\LETU-Academic-Planner\claendermockup\claendermockup\obj\Debug\claendermockup.csprojResolveAssemblyReference.cache
+C:\Users\luked\OneDrive\Documents\GitHub\LETU-Academic-Planner\claendermockup\claendermockup\obj\Debug\claendermockup.Form1.resources
+C:\Users\luked\OneDrive\Documents\GitHub\LETU-Academic-Planner\claendermockup\claendermockup\obj\Debug\claendermockup.Form2.resources
+C:\Users\luked\OneDrive\Documents\GitHub\LETU-Academic-Planner\claendermockup\claendermockup\obj\Debug\claendermockup.Properties.Resources.resources
+C:\Users\luked\OneDrive\Documents\GitHub\LETU-Academic-Planner\claendermockup\claendermockup\obj\Debug\claendermockup.csproj.GenerateResource.Cache
