@@ -17,7 +17,7 @@ namespace claendermockup
             TreeNode eetc_cst = new TreeNode("EETC");
             TreeNode[] CST = new TreeNode[] { cosc_cst, eetc_cst };
             TreeNode CSTNode = new TreeNode("Computer Science & Engineering Technology", CST);
-
+            CSTNode.Text = "5";
             return
 
             CSTNode;

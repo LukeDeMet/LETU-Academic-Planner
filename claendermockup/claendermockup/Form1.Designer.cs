@@ -28,33 +28,33 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.Windows.Forms.TreeNode treeNode631 = new System.Windows.Forms.TreeNode("EETC 1021 - DC Electricity Laboratory");
-            System.Windows.Forms.TreeNode treeNode632 = new System.Windows.Forms.TreeNode("EETC 1022 - DC Electricity");
-            System.Windows.Forms.TreeNode treeNode633 = new System.Windows.Forms.TreeNode("EETC 1041 - AC Electricity Laboratory");
-            System.Windows.Forms.TreeNode treeNode634 = new System.Windows.Forms.TreeNode("EETC 1042 - AC Electricity");
-            System.Windows.Forms.TreeNode treeNode635 = new System.Windows.Forms.TreeNode("EETC", new System.Windows.Forms.TreeNode[] {
-            treeNode631,
-            treeNode632,
-            treeNode633,
-            treeNode634});
-            System.Windows.Forms.TreeNode treeNode636 = new System.Windows.Forms.TreeNode("BIBL 1033 - Biblical Literature");
-            System.Windows.Forms.TreeNode treeNode637 = new System.Windows.Forms.TreeNode("BIBL 2000 Level or above Elective (3 Hours)");
-            System.Windows.Forms.TreeNode treeNode638 = new System.Windows.Forms.TreeNode("BIBL", new System.Windows.Forms.TreeNode[] {
-            treeNode636,
-            treeNode637});
-            System.Windows.Forms.TreeNode treeNode639 = new System.Windows.Forms.TreeNode("COSC 1303 - Computer Science I");
-            System.Windows.Forms.TreeNode treeNode640 = new System.Windows.Forms.TreeNode("COSC 2103 - Computer Science II");
-            System.Windows.Forms.TreeNode treeNode641 = new System.Windows.Forms.TreeNode("COSC 2203 - Data Structures");
-            System.Windows.Forms.TreeNode treeNode642 = new System.Windows.Forms.TreeNode("COSC 3303 -Computer Architecture");
-            System.Windows.Forms.TreeNode treeNode643 = new System.Windows.Forms.TreeNode("COSC", new System.Windows.Forms.TreeNode[] {
-            treeNode639,
-            treeNode640,
-            treeNode641,
-            treeNode642});
-            System.Windows.Forms.TreeNode treeNode644 = new System.Windows.Forms.TreeNode("CST", new System.Windows.Forms.TreeNode[] {
-            treeNode635,
-            treeNode638,
-            treeNode643});
+            System.Windows.Forms.TreeNode treeNode71 = new System.Windows.Forms.TreeNode("EETC 1021 - DC Electricity Laboratory");
+            System.Windows.Forms.TreeNode treeNode72 = new System.Windows.Forms.TreeNode("EETC 1022 - DC Electricity");
+            System.Windows.Forms.TreeNode treeNode73 = new System.Windows.Forms.TreeNode("EETC 1041 - AC Electricity Laboratory");
+            System.Windows.Forms.TreeNode treeNode74 = new System.Windows.Forms.TreeNode("EETC 1042 - AC Electricity");
+            System.Windows.Forms.TreeNode treeNode75 = new System.Windows.Forms.TreeNode("EETC", new System.Windows.Forms.TreeNode[] {
+            treeNode71,
+            treeNode72,
+            treeNode73,
+            treeNode74});
+            System.Windows.Forms.TreeNode treeNode76 = new System.Windows.Forms.TreeNode("BIBL 1033 - Biblical Literature");
+            System.Windows.Forms.TreeNode treeNode77 = new System.Windows.Forms.TreeNode("BIBL 2000 Level or above Elective (3 Hours)");
+            System.Windows.Forms.TreeNode treeNode78 = new System.Windows.Forms.TreeNode("BIBL", new System.Windows.Forms.TreeNode[] {
+            treeNode76,
+            treeNode77});
+            System.Windows.Forms.TreeNode treeNode79 = new System.Windows.Forms.TreeNode("COSC 1303 - Computer Science I");
+            System.Windows.Forms.TreeNode treeNode80 = new System.Windows.Forms.TreeNode("COSC 2103 - Computer Science II");
+            System.Windows.Forms.TreeNode treeNode81 = new System.Windows.Forms.TreeNode("COSC 2203 - Data Structures");
+            System.Windows.Forms.TreeNode treeNode82 = new System.Windows.Forms.TreeNode("COSC 3303 -Computer Architecture");
+            System.Windows.Forms.TreeNode treeNode83 = new System.Windows.Forms.TreeNode("COSC", new System.Windows.Forms.TreeNode[] {
+            treeNode79,
+            treeNode80,
+            treeNode81,
+            treeNode82});
+            System.Windows.Forms.TreeNode treeNode84 = new System.Windows.Forms.TreeNode("CST", new System.Windows.Forms.TreeNode[] {
+            treeNode75,
+            treeNode78,
+            treeNode83});
             this.groupBox1 = new System.Windows.Forms.GroupBox();
             this.label31 = new System.Windows.Forms.Label();
             this.label30 = new System.Windows.Forms.Label();
@@ -251,17 +251,73 @@
             this.comboBox1 = new System.Windows.Forms.ComboBox();
             this.comboBox2 = new System.Windows.Forms.ComboBox();
             this.button1 = new System.Windows.Forms.Button();
-            this.groupBox9 = new System.Windows.Forms.GroupBox();
-            this.label19 = new System.Windows.Forms.Label();
-            this.label20 = new System.Windows.Forms.Label();
-            this.groupBox10 = new System.Windows.Forms.GroupBox();
-            this.label17 = new System.Windows.Forms.Label();
-            this.label18 = new System.Windows.Forms.Label();
             this.treeView1 = new System.Windows.Forms.TreeView();
             this.button2 = new System.Windows.Forms.Button();
             this.button3 = new System.Windows.Forms.Button();
             this.groupBox11 = new System.Windows.Forms.GroupBox();
-            this.label26 = new System.Windows.Forms.Label();
+            this.label18 = new System.Windows.Forms.Label();
+            this.label17 = new System.Windows.Forms.Label();
+            this.groupBox10 = new System.Windows.Forms.GroupBox();
+            this.label95 = new System.Windows.Forms.Label();
+            this.label96 = new System.Windows.Forms.Label();
+            this.label97 = new System.Windows.Forms.Label();
+            this.textBox97 = new System.Windows.Forms.TextBox();
+            this.textBox98 = new System.Windows.Forms.TextBox();
+            this.textBox99 = new System.Windows.Forms.TextBox();
+            this.textBox100 = new System.Windows.Forms.TextBox();
+            this.textBox101 = new System.Windows.Forms.TextBox();
+            this.textBox102 = new System.Windows.Forms.TextBox();
+            this.textBox103 = new System.Windows.Forms.TextBox();
+            this.label98 = new System.Windows.Forms.Label();
+            this.label99 = new System.Windows.Forms.Label();
+            this.label100 = new System.Windows.Forms.Label();
+            this.label101 = new System.Windows.Forms.Label();
+            this.textBox104 = new System.Windows.Forms.TextBox();
+            this.textBox105 = new System.Windows.Forms.TextBox();
+            this.textBox106 = new System.Windows.Forms.TextBox();
+            this.textBox107 = new System.Windows.Forms.TextBox();
+            this.textBox108 = new System.Windows.Forms.TextBox();
+            this.label102 = new System.Windows.Forms.Label();
+            this.label103 = new System.Windows.Forms.Label();
+            this.label20 = new System.Windows.Forms.Label();
+            this.label19 = new System.Windows.Forms.Label();
+            this.groupBox9 = new System.Windows.Forms.GroupBox();
+            this.label104 = new System.Windows.Forms.Label();
+            this.label105 = new System.Windows.Forms.Label();
+            this.label106 = new System.Windows.Forms.Label();
+            this.textBox109 = new System.Windows.Forms.TextBox();
+            this.textBox110 = new System.Windows.Forms.TextBox();
+            this.textBox111 = new System.Windows.Forms.TextBox();
+            this.textBox112 = new System.Windows.Forms.TextBox();
+            this.textBox113 = new System.Windows.Forms.TextBox();
+            this.textBox114 = new System.Windows.Forms.TextBox();
+            this.textBox115 = new System.Windows.Forms.TextBox();
+            this.label107 = new System.Windows.Forms.Label();
+            this.label108 = new System.Windows.Forms.Label();
+            this.label109 = new System.Windows.Forms.Label();
+            this.label110 = new System.Windows.Forms.Label();
+            this.textBox116 = new System.Windows.Forms.TextBox();
+            this.textBox117 = new System.Windows.Forms.TextBox();
+            this.textBox118 = new System.Windows.Forms.TextBox();
+            this.textBox119 = new System.Windows.Forms.TextBox();
+            this.textBox120 = new System.Windows.Forms.TextBox();
+            this.label111 = new System.Windows.Forms.Label();
+            this.label112 = new System.Windows.Forms.Label();
+            this.menuStrip1 = new System.Windows.Forms.MenuStrip();
+            this.saveToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.helpToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.justDragClassesToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.intoTheSemestersToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.thenManuallyEnterToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.theHoursIntoTheHourBoxToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.thenAfterYouCompleteTheClassToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.youCanEnterTheGradeAndToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.itWillCalculateYourGPAToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.loadToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.clickSaveToSaveAllToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.theCurrentValuesInTheFileToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.thenHitLoadToReloadTheLastToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.sessionToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.groupBox1.SuspendLayout();
             this.groupBox2.SuspendLayout();
             this.groupBox3.SuspendLayout();
@@ -270,8 +326,9 @@
             this.groupBox6.SuspendLayout();
             this.groupBox7.SuspendLayout();
             this.groupBox8.SuspendLayout();
-            this.groupBox9.SuspendLayout();
             this.groupBox10.SuspendLayout();
+            this.groupBox9.SuspendLayout();
+            this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
             // groupBox1
@@ -300,7 +357,7 @@
             this.groupBox1.Controls.Add(this.label22);
             this.groupBox1.Controls.Add(this.label2);
             this.groupBox1.Controls.Add(this.label1);
-            this.groupBox1.Location = new System.Drawing.Point(209, 39);
+            this.groupBox1.Location = new System.Drawing.Point(207, 56);
             this.groupBox1.Name = "groupBox1";
             this.groupBox1.Size = new System.Drawing.Size(256, 200);
             this.groupBox1.TabIndex = 0;
@@ -501,9 +558,9 @@
             this.label22.AutoSize = true;
             this.label22.Location = new System.Drawing.Point(0, 16);
             this.label22.Name = "label22";
-            this.label22.Size = new System.Drawing.Size(35, 13);
+            this.label22.Size = new System.Drawing.Size(46, 13);
             this.label22.TabIndex = 3;
-            this.label22.Text = "Class:";
+            this.label22.Text = "Classes:";
             // 
             // label2
             // 
@@ -548,7 +605,7 @@
             this.groupBox2.Controls.Add(this.label40);
             this.groupBox2.Controls.Add(this.label3);
             this.groupBox2.Controls.Add(this.label4);
-            this.groupBox2.Location = new System.Drawing.Point(470, 39);
+            this.groupBox2.Location = new System.Drawing.Point(468, 56);
             this.groupBox2.Name = "groupBox2";
             this.groupBox2.Size = new System.Drawing.Size(256, 200);
             this.groupBox2.TabIndex = 1;
@@ -740,9 +797,9 @@
             this.label40.AutoSize = true;
             this.label40.Location = new System.Drawing.Point(0, 17);
             this.label40.Name = "label40";
-            this.label40.Size = new System.Drawing.Size(35, 13);
+            this.label40.Size = new System.Drawing.Size(46, 13);
             this.label40.TabIndex = 39;
-            this.label40.Text = "Class:";
+            this.label40.Text = "Classes:";
             // 
             // label3
             // 
@@ -787,7 +844,7 @@
             this.groupBox3.Controls.Add(this.label49);
             this.groupBox3.Controls.Add(this.label5);
             this.groupBox3.Controls.Add(this.label6);
-            this.groupBox3.Location = new System.Drawing.Point(731, 39);
+            this.groupBox3.Location = new System.Drawing.Point(729, 56);
             this.groupBox3.Name = "groupBox3";
             this.groupBox3.Size = new System.Drawing.Size(256, 200);
             this.groupBox3.TabIndex = 1;
@@ -980,9 +1037,9 @@
             this.label49.AutoSize = true;
             this.label49.Location = new System.Drawing.Point(0, 17);
             this.label49.Name = "label49";
-            this.label49.Size = new System.Drawing.Size(35, 13);
+            this.label49.Size = new System.Drawing.Size(46, 13);
             this.label49.TabIndex = 39;
-            this.label49.Text = "Class:";
+            this.label49.Text = "Classes:";
             // 
             // label5
             // 
@@ -1027,7 +1084,7 @@
             this.groupBox4.Controls.Add(this.label58);
             this.groupBox4.Controls.Add(this.label7);
             this.groupBox4.Controls.Add(this.label8);
-            this.groupBox4.Location = new System.Drawing.Point(992, 39);
+            this.groupBox4.Location = new System.Drawing.Point(990, 56);
             this.groupBox4.Name = "groupBox4";
             this.groupBox4.Size = new System.Drawing.Size(256, 200);
             this.groupBox4.TabIndex = 3;
@@ -1201,7 +1258,7 @@
             // 
             // textBox48
             // 
-            this.textBox48.Location = new System.Drawing.Point(187, 33);
+            this.textBox48.Location = new System.Drawing.Point(187, 35);
             this.textBox48.Name = "textBox48";
             this.textBox48.Size = new System.Drawing.Size(22, 20);
             this.textBox48.TabIndex = 42;
@@ -1220,9 +1277,9 @@
             this.label58.AutoSize = true;
             this.label58.Location = new System.Drawing.Point(0, 17);
             this.label58.Name = "label58";
-            this.label58.Size = new System.Drawing.Size(35, 13);
+            this.label58.Size = new System.Drawing.Size(46, 13);
             this.label58.TabIndex = 39;
-            this.label58.Text = "Class:";
+            this.label58.Text = "Classes:";
             // 
             // label7
             // 
@@ -1267,7 +1324,7 @@
             this.groupBox5.Controls.Add(this.label94);
             this.groupBox5.Controls.Add(this.label15);
             this.groupBox5.Controls.Add(this.label16);
-            this.groupBox5.Location = new System.Drawing.Point(992, 245);
+            this.groupBox5.Location = new System.Drawing.Point(990, 262);
             this.groupBox5.Name = "groupBox5";
             this.groupBox5.Size = new System.Drawing.Size(256, 200);
             this.groupBox5.TabIndex = 7;
@@ -1460,9 +1517,9 @@
             this.label94.AutoSize = true;
             this.label94.Location = new System.Drawing.Point(0, 17);
             this.label94.Name = "label94";
-            this.label94.Size = new System.Drawing.Size(35, 13);
+            this.label94.Size = new System.Drawing.Size(46, 13);
             this.label94.TabIndex = 39;
-            this.label94.Text = "Class:";
+            this.label94.Text = "Classes:";
             // 
             // label15
             // 
@@ -1507,7 +1564,7 @@
             this.groupBox6.Controls.Add(this.label85);
             this.groupBox6.Controls.Add(this.label13);
             this.groupBox6.Controls.Add(this.label14);
-            this.groupBox6.Location = new System.Drawing.Point(731, 245);
+            this.groupBox6.Location = new System.Drawing.Point(729, 262);
             this.groupBox6.Name = "groupBox6";
             this.groupBox6.Size = new System.Drawing.Size(256, 200);
             this.groupBox6.TabIndex = 5;
@@ -1700,9 +1757,9 @@
             this.label85.AutoSize = true;
             this.label85.Location = new System.Drawing.Point(0, 17);
             this.label85.Name = "label85";
-            this.label85.Size = new System.Drawing.Size(35, 13);
+            this.label85.Size = new System.Drawing.Size(46, 13);
             this.label85.TabIndex = 39;
-            this.label85.Text = "Class:";
+            this.label85.Text = "Classes:";
             // 
             // label13
             // 
@@ -1747,7 +1804,7 @@
             this.groupBox7.Controls.Add(this.label76);
             this.groupBox7.Controls.Add(this.label11);
             this.groupBox7.Controls.Add(this.label12);
-            this.groupBox7.Location = new System.Drawing.Point(470, 245);
+            this.groupBox7.Location = new System.Drawing.Point(468, 262);
             this.groupBox7.Name = "groupBox7";
             this.groupBox7.Size = new System.Drawing.Size(256, 200);
             this.groupBox7.TabIndex = 6;
@@ -1940,9 +1997,9 @@
             this.label76.AutoSize = true;
             this.label76.Location = new System.Drawing.Point(0, 17);
             this.label76.Name = "label76";
-            this.label76.Size = new System.Drawing.Size(35, 13);
+            this.label76.Size = new System.Drawing.Size(46, 13);
             this.label76.TabIndex = 39;
-            this.label76.Text = "Class:";
+            this.label76.Text = "Classes:";
             // 
             // label11
             // 
@@ -1987,7 +2044,7 @@
             this.groupBox8.Controls.Add(this.label67);
             this.groupBox8.Controls.Add(this.label9);
             this.groupBox8.Controls.Add(this.label10);
-            this.groupBox8.Location = new System.Drawing.Point(209, 245);
+            this.groupBox8.Location = new System.Drawing.Point(207, 262);
             this.groupBox8.Name = "groupBox8";
             this.groupBox8.Size = new System.Drawing.Size(256, 200);
             this.groupBox8.TabIndex = 4;
@@ -2180,9 +2237,9 @@
             this.label67.AutoSize = true;
             this.label67.Location = new System.Drawing.Point(0, 17);
             this.label67.Name = "label67";
-            this.label67.Size = new System.Drawing.Size(35, 13);
+            this.label67.Size = new System.Drawing.Size(46, 13);
             this.label67.TabIndex = 39;
-            this.label67.Text = "Class:";
+            this.label67.Text = "Classes:";
             // 
             // label9
             // 
@@ -2209,7 +2266,7 @@
             this.comboBox1.Items.AddRange(new object[] {
             "Profile: Comp-sci and eng tech",
             "Add a profile..."});
-            this.comboBox1.Location = new System.Drawing.Point(208, 12);
+            this.comboBox1.Location = new System.Drawing.Point(206, 29);
             this.comboBox1.Name = "comboBox1";
             this.comboBox1.Size = new System.Drawing.Size(261, 21);
             this.comboBox1.TabIndex = 0;
@@ -2220,7 +2277,7 @@
             this.comboBox2.FormattingEnabled = true;
             this.comboBox2.Items.AddRange(new object[] {
             "Computer Science and Engineering Technology"});
-            this.comboBox2.Location = new System.Drawing.Point(18, 12);
+            this.comboBox2.Location = new System.Drawing.Point(16, 29);
             this.comboBox2.Name = "comboBox2";
             this.comboBox2.Size = new System.Drawing.Size(185, 21);
             this.comboBox2.TabIndex = 8;
@@ -2235,54 +2292,71 @@
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.Form1_Load);
             // 
-            // groupBox9
+            // treeView1
             // 
-            this.groupBox9.Controls.Add(this.label19);
-            this.groupBox9.Controls.Add(this.label20);
-            this.groupBox9.Location = new System.Drawing.Point(470, 451);
-            this.groupBox9.Name = "groupBox9";
-            this.groupBox9.Size = new System.Drawing.Size(256, 200);
-            this.groupBox9.TabIndex = 8;
-            this.groupBox9.TabStop = false;
-            this.groupBox9.Text = "Transfer Credits";
+            this.treeView1.AllowDrop = true;
+            this.treeView1.Location = new System.Drawing.Point(16, 56);
+            this.treeView1.Name = "treeView1";
+            treeNode71.Name = "Node13";
+            treeNode71.Text = "EETC 1021 - DC Electricity Laboratory";
+            treeNode72.Name = "Node15";
+            treeNode72.Text = "EETC 1022 - DC Electricity";
+            treeNode73.Name = "Node16";
+            treeNode73.Text = "EETC 1041 - AC Electricity Laboratory";
+            treeNode74.Name = "Node17";
+            treeNode74.Text = "EETC 1042 - AC Electricity";
+            treeNode75.Name = "Node11";
+            treeNode75.Text = "EETC";
+            treeNode76.Name = "Node9";
+            treeNode76.Text = "BIBL 1033 - Biblical Literature";
+            treeNode77.Name = "Node10";
+            treeNode77.Text = "BIBL 2000 Level or above Elective (3 Hours)";
+            treeNode78.Name = "Node8";
+            treeNode78.Text = "BIBL";
+            treeNode79.Name = "Node3";
+            treeNode79.Text = "COSC 1303 - Computer Science I";
+            treeNode80.Name = "Node4";
+            treeNode80.Text = "COSC 2103 - Computer Science II";
+            treeNode81.Name = "Node6";
+            treeNode81.Text = "COSC 2203 - Data Structures";
+            treeNode82.Name = "Node7";
+            treeNode82.Text = "COSC 3303 -Computer Architecture";
+            treeNode83.Name = "COSC";
+            treeNode83.Text = "COSC";
+            treeNode84.Name = "Node18";
+            treeNode84.Text = "CST";
+            this.treeView1.Nodes.AddRange(new System.Windows.Forms.TreeNode[] {
+            treeNode84});
+            this.treeView1.Size = new System.Drawing.Size(185, 543);
+            this.treeView1.TabIndex = 10;
+            this.treeView1.ItemDrag += new System.Windows.Forms.ItemDragEventHandler(this.treeView1_ItemDrag);
             // 
-            // label19
+            // button2
             // 
-            this.label19.AutoSize = true;
-            this.label19.Location = new System.Drawing.Point(167, 184);
-            this.label19.Name = "label19";
-            this.label19.Size = new System.Drawing.Size(83, 13);
-            this.label19.TabIndex = 19;
-            this.label19.Text = "Credit Hours: 00";
+            this.button2.Location = new System.Drawing.Point(807, 564);
+            this.button2.Name = "button2";
+            this.button2.Size = new System.Drawing.Size(100, 23);
+            this.button2.TabIndex = 11;
+            this.button2.Text = "Add Semester";
+            this.button2.UseVisualStyleBackColor = true;
             // 
-            // label20
+            // button3
             // 
-            this.label20.AutoSize = true;
-            this.label20.Location = new System.Drawing.Point(58, 184);
-            this.label20.Name = "label20";
-            this.label20.Size = new System.Drawing.Size(103, 13);
-            this.label20.TabIndex = 18;
-            this.label20.Text = "Semester GPA: 4.00";
+            this.button3.Location = new System.Drawing.Point(473, 27);
+            this.button3.Name = "button3";
+            this.button3.Size = new System.Drawing.Size(123, 23);
+            this.button3.TabIndex = 12;
+            this.button3.Text = "Import/Export...";
+            this.button3.UseVisualStyleBackColor = true;
             // 
-            // groupBox10
+            // groupBox11
             // 
-            this.groupBox10.Controls.Add(this.label17);
-            this.groupBox10.Controls.Add(this.label18);
-            this.groupBox10.Location = new System.Drawing.Point(209, 451);
-            this.groupBox10.Name = "groupBox10";
-            this.groupBox10.Size = new System.Drawing.Size(256, 200);
-            this.groupBox10.TabIndex = 7;
-            this.groupBox10.TabStop = false;
-            this.groupBox10.Text = "Summer Classes";
-            // 
-            // label17
-            // 
-            this.label17.AutoSize = true;
-            this.label17.Location = new System.Drawing.Point(170, 184);
-            this.label17.Name = "label17";
-            this.label17.Size = new System.Drawing.Size(83, 13);
-            this.label17.TabIndex = 17;
-            this.label17.Text = "Credit Hours: 00";
+            this.groupBox11.Location = new System.Drawing.Point(16, 605);
+            this.groupBox11.Name = "groupBox11";
+            this.groupBox11.Size = new System.Drawing.Size(185, 60);
+            this.groupBox11.TabIndex = 13;
+            this.groupBox11.TabStop = false;
+            this.groupBox11.Text = "Class Remover";
             // 
             // label18
             // 
@@ -2293,87 +2367,590 @@
             this.label18.TabIndex = 16;
             this.label18.Text = "Semester GPA: 4.00";
             // 
-            // treeView1
+            // label17
             // 
-            this.treeView1.AllowDrop = true;
-            this.treeView1.Location = new System.Drawing.Point(18, 39);
-            this.treeView1.Name = "treeView1";
-            treeNode631.Name = "Node13";
-            treeNode631.Text = "EETC 1021 - DC Electricity Laboratory";
-            treeNode632.Name = "Node15";
-            treeNode632.Text = "EETC 1022 - DC Electricity";
-            treeNode633.Name = "Node16";
-            treeNode633.Text = "EETC 1041 - AC Electricity Laboratory";
-            treeNode634.Name = "Node17";
-            treeNode634.Text = "EETC 1042 - AC Electricity";
-            treeNode635.Name = "Node11";
-            treeNode635.Text = "EETC";
-            treeNode636.Name = "Node9";
-            treeNode636.Text = "BIBL 1033 - Biblical Literature";
-            treeNode637.Name = "Node10";
-            treeNode637.Text = "BIBL 2000 Level or above Elective (3 Hours)";
-            treeNode638.Name = "Node8";
-            treeNode638.Text = "BIBL";
-            treeNode639.Name = "Node3";
-            treeNode639.Text = "COSC 1303 - Computer Science I";
-            treeNode640.Name = "Node4";
-            treeNode640.Text = "COSC 2103 - Computer Science II";
-            treeNode641.Name = "Node6";
-            treeNode641.Text = "COSC 2203 - Data Structures";
-            treeNode642.Name = "Node7";
-            treeNode642.Text = "COSC 3303 -Computer Architecture";
-            treeNode643.Name = "COSC";
-            treeNode643.Text = "COSC";
-            treeNode644.Name = "Node18";
-            treeNode644.Text = "CST";
-            this.treeView1.Nodes.AddRange(new System.Windows.Forms.TreeNode[] {
-            treeNode644});
-            this.treeView1.Size = new System.Drawing.Size(185, 543);
-            this.treeView1.TabIndex = 10;
-            this.treeView1.ItemDrag += new System.Windows.Forms.ItemDragEventHandler(this.treeView1_ItemDrag);
+            this.label17.AutoSize = true;
+            this.label17.Location = new System.Drawing.Point(170, 184);
+            this.label17.Name = "label17";
+            this.label17.Size = new System.Drawing.Size(83, 13);
+            this.label17.TabIndex = 17;
+            this.label17.Text = "Credit Hours: 00";
             // 
-            // button2
+            // groupBox10
             // 
-            this.button2.Location = new System.Drawing.Point(809, 547);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(100, 23);
-            this.button2.TabIndex = 11;
-            this.button2.Text = "Add Semester";
-            this.button2.UseVisualStyleBackColor = true;
+            this.groupBox10.Controls.Add(this.label95);
+            this.groupBox10.Controls.Add(this.label96);
+            this.groupBox10.Controls.Add(this.label97);
+            this.groupBox10.Controls.Add(this.textBox97);
+            this.groupBox10.Controls.Add(this.textBox98);
+            this.groupBox10.Controls.Add(this.textBox99);
+            this.groupBox10.Controls.Add(this.textBox100);
+            this.groupBox10.Controls.Add(this.textBox101);
+            this.groupBox10.Controls.Add(this.textBox102);
+            this.groupBox10.Controls.Add(this.textBox103);
+            this.groupBox10.Controls.Add(this.label98);
+            this.groupBox10.Controls.Add(this.label99);
+            this.groupBox10.Controls.Add(this.label100);
+            this.groupBox10.Controls.Add(this.label101);
+            this.groupBox10.Controls.Add(this.textBox104);
+            this.groupBox10.Controls.Add(this.textBox105);
+            this.groupBox10.Controls.Add(this.textBox106);
+            this.groupBox10.Controls.Add(this.textBox107);
+            this.groupBox10.Controls.Add(this.textBox108);
+            this.groupBox10.Controls.Add(this.label102);
+            this.groupBox10.Controls.Add(this.label103);
+            this.groupBox10.Controls.Add(this.label17);
+            this.groupBox10.Controls.Add(this.label18);
+            this.groupBox10.Location = new System.Drawing.Point(207, 468);
+            this.groupBox10.Name = "groupBox10";
+            this.groupBox10.Size = new System.Drawing.Size(256, 200);
+            this.groupBox10.TabIndex = 7;
+            this.groupBox10.TabStop = false;
+            this.groupBox10.Text = "Summer Classes";
             // 
-            // button3
+            // label95
             // 
-            this.button3.Location = new System.Drawing.Point(475, 10);
-            this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(123, 23);
-            this.button3.TabIndex = 12;
-            this.button3.Text = "Import/Export...";
-            this.button3.UseVisualStyleBackColor = true;
+            this.label95.AllowDrop = true;
+            this.label95.AutoSize = true;
+            this.label95.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label95.Location = new System.Drawing.Point(0, 156);
+            this.label95.Name = "label95";
+            this.label95.Size = new System.Drawing.Size(38, 13);
+            this.label95.TabIndex = 82;
+            this.label95.Text = "Class6";
+            this.label95.DragDrop += new System.Windows.Forms.DragEventHandler(this.label54_DragDrop);
+            this.label95.DragEnter += new System.Windows.Forms.DragEventHandler(this.textBox1_DragEnter);
             // 
-            // groupBox11
+            // label96
             // 
-            this.groupBox11.Location = new System.Drawing.Point(18, 588);
-            this.groupBox11.Name = "groupBox11";
-            this.groupBox11.Size = new System.Drawing.Size(185, 60);
-            this.groupBox11.TabIndex = 13;
-            this.groupBox11.TabStop = false;
-            this.groupBox11.Text = "Class Remover";
+            this.label96.AllowDrop = true;
+            this.label96.AutoSize = true;
+            this.label96.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label96.Location = new System.Drawing.Point(0, 130);
+            this.label96.Name = "label96";
+            this.label96.Size = new System.Drawing.Size(38, 13);
+            this.label96.TabIndex = 81;
+            this.label96.Text = "Class5";
+            this.label96.DragDrop += new System.Windows.Forms.DragEventHandler(this.label53_DragDrop);
+            this.label96.DragEnter += new System.Windows.Forms.DragEventHandler(this.textBox1_DragEnter);
             // 
-            // label26
+            // label97
             // 
-            this.label26.AutoSize = true;
-            this.label26.Location = new System.Drawing.Point(0, 0);
-            this.label26.Name = "label26";
-            this.label26.Size = new System.Drawing.Size(41, 13);
-            this.label26.TabIndex = 14;
-            this.label26.Text = "label26";
+            this.label97.AllowDrop = true;
+            this.label97.AutoSize = true;
+            this.label97.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label97.Location = new System.Drawing.Point(0, 104);
+            this.label97.Name = "label97";
+            this.label97.Size = new System.Drawing.Size(38, 13);
+            this.label97.TabIndex = 80;
+            this.label97.Text = "Class4";
+            this.label97.DragDrop += new System.Windows.Forms.DragEventHandler(this.label52_DragDrop);
+            this.label97.DragEnter += new System.Windows.Forms.DragEventHandler(this.textBox1_DragEnter);
+            // 
+            // textBox97
+            // 
+            this.textBox97.Location = new System.Drawing.Point(220, 156);
+            this.textBox97.Name = "textBox97";
+            this.textBox97.Size = new System.Drawing.Size(22, 20);
+            this.textBox97.TabIndex = 79;
+            // 
+            // textBox98
+            // 
+            this.textBox98.Location = new System.Drawing.Point(220, 130);
+            this.textBox98.Name = "textBox98";
+            this.textBox98.Size = new System.Drawing.Size(22, 20);
+            this.textBox98.TabIndex = 78;
+            // 
+            // textBox99
+            // 
+            this.textBox99.Location = new System.Drawing.Point(220, 104);
+            this.textBox99.Name = "textBox99";
+            this.textBox99.Size = new System.Drawing.Size(22, 20);
+            this.textBox99.TabIndex = 77;
+            // 
+            // textBox100
+            // 
+            this.textBox100.Location = new System.Drawing.Point(220, 78);
+            this.textBox100.Name = "textBox100";
+            this.textBox100.Size = new System.Drawing.Size(22, 20);
+            this.textBox100.TabIndex = 76;
+            // 
+            // textBox101
+            // 
+            this.textBox101.Location = new System.Drawing.Point(220, 52);
+            this.textBox101.Name = "textBox101";
+            this.textBox101.Size = new System.Drawing.Size(22, 20);
+            this.textBox101.TabIndex = 75;
+            // 
+            // textBox102
+            // 
+            this.textBox102.Location = new System.Drawing.Point(220, 26);
+            this.textBox102.Name = "textBox102";
+            this.textBox102.Size = new System.Drawing.Size(22, 20);
+            this.textBox102.TabIndex = 74;
+            // 
+            // textBox103
+            // 
+            this.textBox103.Location = new System.Drawing.Point(187, 156);
+            this.textBox103.Name = "textBox103";
+            this.textBox103.Size = new System.Drawing.Size(22, 20);
+            this.textBox103.TabIndex = 73;
+            // 
+            // label98
+            // 
+            this.label98.AllowDrop = true;
+            this.label98.AutoSize = true;
+            this.label98.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label98.Location = new System.Drawing.Point(0, 78);
+            this.label98.Name = "label98";
+            this.label98.Size = new System.Drawing.Size(38, 13);
+            this.label98.TabIndex = 72;
+            this.label98.Text = "Class3";
+            this.label98.DragDrop += new System.Windows.Forms.DragEventHandler(this.label51_DragDrop);
+            this.label98.DragEnter += new System.Windows.Forms.DragEventHandler(this.textBox1_DragEnter);
+            // 
+            // label99
+            // 
+            this.label99.AllowDrop = true;
+            this.label99.AutoSize = true;
+            this.label99.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label99.Location = new System.Drawing.Point(0, 33);
+            this.label99.Name = "label99";
+            this.label99.Size = new System.Drawing.Size(38, 13);
+            this.label99.TabIndex = 63;
+            this.label99.Text = "Class1";
+            this.label99.DragDrop += new System.Windows.Forms.DragEventHandler(this.label49_DragDrop);
+            this.label99.DragEnter += new System.Windows.Forms.DragEventHandler(this.textBox1_DragEnter);
+            // 
+            // label100
+            // 
+            this.label100.AllowDrop = true;
+            this.label100.AutoSize = true;
+            this.label100.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label100.Location = new System.Drawing.Point(0, 55);
+            this.label100.Name = "label100";
+            this.label100.Size = new System.Drawing.Size(38, 13);
+            this.label100.TabIndex = 71;
+            this.label100.Text = "Class2";
+            this.label100.DragDrop += new System.Windows.Forms.DragEventHandler(this.label50_DragDrop);
+            this.label100.DragEnter += new System.Windows.Forms.DragEventHandler(this.textBox1_DragEnter);
+            // 
+            // label101
+            // 
+            this.label101.AutoSize = true;
+            this.label101.Location = new System.Drawing.Point(217, 10);
+            this.label101.Name = "label101";
+            this.label101.Size = new System.Drawing.Size(39, 13);
+            this.label101.TabIndex = 70;
+            this.label101.Text = "Grade:";
+            // 
+            // textBox104
+            // 
+            this.textBox104.Location = new System.Drawing.Point(187, 130);
+            this.textBox104.Name = "textBox104";
+            this.textBox104.Size = new System.Drawing.Size(22, 20);
+            this.textBox104.TabIndex = 69;
+            // 
+            // textBox105
+            // 
+            this.textBox105.Location = new System.Drawing.Point(187, 104);
+            this.textBox105.Name = "textBox105";
+            this.textBox105.Size = new System.Drawing.Size(22, 20);
+            this.textBox105.TabIndex = 68;
+            // 
+            // textBox106
+            // 
+            this.textBox106.Location = new System.Drawing.Point(187, 78);
+            this.textBox106.Name = "textBox106";
+            this.textBox106.Size = new System.Drawing.Size(22, 20);
+            this.textBox106.TabIndex = 67;
+            // 
+            // textBox107
+            // 
+            this.textBox107.Location = new System.Drawing.Point(187, 52);
+            this.textBox107.Name = "textBox107";
+            this.textBox107.Size = new System.Drawing.Size(22, 20);
+            this.textBox107.TabIndex = 66;
+            // 
+            // textBox108
+            // 
+            this.textBox108.Location = new System.Drawing.Point(187, 26);
+            this.textBox108.Name = "textBox108";
+            this.textBox108.Size = new System.Drawing.Size(22, 20);
+            this.textBox108.TabIndex = 65;
+            // 
+            // label102
+            // 
+            this.label102.AutoSize = true;
+            this.label102.Location = new System.Drawing.Point(178, 10);
+            this.label102.Name = "label102";
+            this.label102.Size = new System.Drawing.Size(38, 13);
+            this.label102.TabIndex = 64;
+            this.label102.Text = "Hours:";
+            // 
+            // label103
+            // 
+            this.label103.AutoSize = true;
+            this.label103.Location = new System.Drawing.Point(0, 16);
+            this.label103.Name = "label103";
+            this.label103.Size = new System.Drawing.Size(46, 13);
+            this.label103.TabIndex = 62;
+            this.label103.Text = "Classes:";
+            // 
+            // label20
+            // 
+            this.label20.AutoSize = true;
+            this.label20.Location = new System.Drawing.Point(58, 184);
+            this.label20.Name = "label20";
+            this.label20.Size = new System.Drawing.Size(103, 13);
+            this.label20.TabIndex = 18;
+            this.label20.Text = "Semester GPA: 4.00";
+            // 
+            // label19
+            // 
+            this.label19.AutoSize = true;
+            this.label19.Location = new System.Drawing.Point(167, 184);
+            this.label19.Name = "label19";
+            this.label19.Size = new System.Drawing.Size(83, 13);
+            this.label19.TabIndex = 19;
+            this.label19.Text = "Credit Hours: 00";
+            // 
+            // groupBox9
+            // 
+            this.groupBox9.Controls.Add(this.label104);
+            this.groupBox9.Controls.Add(this.label105);
+            this.groupBox9.Controls.Add(this.label106);
+            this.groupBox9.Controls.Add(this.textBox109);
+            this.groupBox9.Controls.Add(this.textBox110);
+            this.groupBox9.Controls.Add(this.textBox111);
+            this.groupBox9.Controls.Add(this.textBox112);
+            this.groupBox9.Controls.Add(this.textBox113);
+            this.groupBox9.Controls.Add(this.textBox114);
+            this.groupBox9.Controls.Add(this.textBox115);
+            this.groupBox9.Controls.Add(this.label107);
+            this.groupBox9.Controls.Add(this.label108);
+            this.groupBox9.Controls.Add(this.label109);
+            this.groupBox9.Controls.Add(this.label110);
+            this.groupBox9.Controls.Add(this.textBox116);
+            this.groupBox9.Controls.Add(this.textBox117);
+            this.groupBox9.Controls.Add(this.textBox118);
+            this.groupBox9.Controls.Add(this.textBox119);
+            this.groupBox9.Controls.Add(this.textBox120);
+            this.groupBox9.Controls.Add(this.label111);
+            this.groupBox9.Controls.Add(this.label112);
+            this.groupBox9.Controls.Add(this.label19);
+            this.groupBox9.Controls.Add(this.label20);
+            this.groupBox9.Location = new System.Drawing.Point(468, 468);
+            this.groupBox9.Name = "groupBox9";
+            this.groupBox9.Size = new System.Drawing.Size(256, 200);
+            this.groupBox9.TabIndex = 8;
+            this.groupBox9.TabStop = false;
+            this.groupBox9.Text = "Transfer Credits";
+            // 
+            // label104
+            // 
+            this.label104.AllowDrop = true;
+            this.label104.AutoSize = true;
+            this.label104.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label104.Location = new System.Drawing.Point(0, 163);
+            this.label104.Name = "label104";
+            this.label104.Size = new System.Drawing.Size(38, 13);
+            this.label104.TabIndex = 103;
+            this.label104.Text = "Class6";
+            this.label104.DragDrop += new System.Windows.Forms.DragEventHandler(this.label60_DragDrop);
+            this.label104.DragEnter += new System.Windows.Forms.DragEventHandler(this.textBox1_DragEnter);
+            // 
+            // label105
+            // 
+            this.label105.AllowDrop = true;
+            this.label105.AutoSize = true;
+            this.label105.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label105.Location = new System.Drawing.Point(0, 137);
+            this.label105.Name = "label105";
+            this.label105.Size = new System.Drawing.Size(38, 13);
+            this.label105.TabIndex = 102;
+            this.label105.Text = "Class5";
+            this.label105.DragDrop += new System.Windows.Forms.DragEventHandler(this.label59_DragDrop);
+            this.label105.DragEnter += new System.Windows.Forms.DragEventHandler(this.textBox1_DragEnter);
+            // 
+            // label106
+            // 
+            this.label106.AllowDrop = true;
+            this.label106.AutoSize = true;
+            this.label106.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label106.Location = new System.Drawing.Point(0, 111);
+            this.label106.Name = "label106";
+            this.label106.Size = new System.Drawing.Size(38, 13);
+            this.label106.TabIndex = 101;
+            this.label106.Text = "Class4";
+            this.label106.DragDrop += new System.Windows.Forms.DragEventHandler(this.label58_DragDrop);
+            this.label106.DragEnter += new System.Windows.Forms.DragEventHandler(this.textBox1_DragEnter);
+            // 
+            // textBox109
+            // 
+            this.textBox109.Location = new System.Drawing.Point(220, 163);
+            this.textBox109.Name = "textBox109";
+            this.textBox109.Size = new System.Drawing.Size(22, 20);
+            this.textBox109.TabIndex = 100;
+            // 
+            // textBox110
+            // 
+            this.textBox110.Location = new System.Drawing.Point(220, 137);
+            this.textBox110.Name = "textBox110";
+            this.textBox110.Size = new System.Drawing.Size(22, 20);
+            this.textBox110.TabIndex = 99;
+            // 
+            // textBox111
+            // 
+            this.textBox111.Location = new System.Drawing.Point(220, 111);
+            this.textBox111.Name = "textBox111";
+            this.textBox111.Size = new System.Drawing.Size(22, 20);
+            this.textBox111.TabIndex = 98;
+            // 
+            // textBox112
+            // 
+            this.textBox112.Location = new System.Drawing.Point(220, 85);
+            this.textBox112.Name = "textBox112";
+            this.textBox112.Size = new System.Drawing.Size(22, 20);
+            this.textBox112.TabIndex = 97;
+            // 
+            // textBox113
+            // 
+            this.textBox113.Location = new System.Drawing.Point(220, 59);
+            this.textBox113.Name = "textBox113";
+            this.textBox113.Size = new System.Drawing.Size(22, 20);
+            this.textBox113.TabIndex = 96;
+            // 
+            // textBox114
+            // 
+            this.textBox114.Location = new System.Drawing.Point(220, 33);
+            this.textBox114.Name = "textBox114";
+            this.textBox114.Size = new System.Drawing.Size(22, 20);
+            this.textBox114.TabIndex = 95;
+            // 
+            // textBox115
+            // 
+            this.textBox115.Location = new System.Drawing.Point(187, 163);
+            this.textBox115.Name = "textBox115";
+            this.textBox115.Size = new System.Drawing.Size(22, 20);
+            this.textBox115.TabIndex = 94;
+            // 
+            // label107
+            // 
+            this.label107.AllowDrop = true;
+            this.label107.AutoSize = true;
+            this.label107.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label107.Location = new System.Drawing.Point(0, 85);
+            this.label107.Name = "label107";
+            this.label107.Size = new System.Drawing.Size(38, 13);
+            this.label107.TabIndex = 93;
+            this.label107.Text = "Class3";
+            this.label107.DragDrop += new System.Windows.Forms.DragEventHandler(this.label57_DragDrop);
+            this.label107.DragEnter += new System.Windows.Forms.DragEventHandler(this.textBox1_DragEnter);
+            // 
+            // label108
+            // 
+            this.label108.AllowDrop = true;
+            this.label108.AutoSize = true;
+            this.label108.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label108.Location = new System.Drawing.Point(0, 36);
+            this.label108.Name = "label108";
+            this.label108.Size = new System.Drawing.Size(38, 13);
+            this.label108.TabIndex = 84;
+            this.label108.Text = "Class1";
+            this.label108.DragDrop += new System.Windows.Forms.DragEventHandler(this.label55_DragDrop);
+            this.label108.DragEnter += new System.Windows.Forms.DragEventHandler(this.textBox1_DragEnter);
+            // 
+            // label109
+            // 
+            this.label109.AllowDrop = true;
+            this.label109.AutoSize = true;
+            this.label109.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label109.Location = new System.Drawing.Point(0, 59);
+            this.label109.Name = "label109";
+            this.label109.Size = new System.Drawing.Size(38, 13);
+            this.label109.TabIndex = 92;
+            this.label109.Text = "Class2";
+            this.label109.DragDrop += new System.Windows.Forms.DragEventHandler(this.label56_DragDrop);
+            this.label109.DragEnter += new System.Windows.Forms.DragEventHandler(this.textBox1_DragEnter);
+            // 
+            // label110
+            // 
+            this.label110.AutoSize = true;
+            this.label110.Location = new System.Drawing.Point(217, 17);
+            this.label110.Name = "label110";
+            this.label110.Size = new System.Drawing.Size(39, 13);
+            this.label110.TabIndex = 91;
+            this.label110.Text = "Grade:";
+            // 
+            // textBox116
+            // 
+            this.textBox116.Location = new System.Drawing.Point(187, 137);
+            this.textBox116.Name = "textBox116";
+            this.textBox116.Size = new System.Drawing.Size(22, 20);
+            this.textBox116.TabIndex = 90;
+            // 
+            // textBox117
+            // 
+            this.textBox117.Location = new System.Drawing.Point(187, 111);
+            this.textBox117.Name = "textBox117";
+            this.textBox117.Size = new System.Drawing.Size(22, 20);
+            this.textBox117.TabIndex = 89;
+            // 
+            // textBox118
+            // 
+            this.textBox118.Location = new System.Drawing.Point(187, 85);
+            this.textBox118.Name = "textBox118";
+            this.textBox118.Size = new System.Drawing.Size(22, 20);
+            this.textBox118.TabIndex = 88;
+            // 
+            // textBox119
+            // 
+            this.textBox119.Location = new System.Drawing.Point(187, 59);
+            this.textBox119.Name = "textBox119";
+            this.textBox119.Size = new System.Drawing.Size(22, 20);
+            this.textBox119.TabIndex = 87;
+            // 
+            // textBox120
+            // 
+            this.textBox120.Location = new System.Drawing.Point(187, 33);
+            this.textBox120.Name = "textBox120";
+            this.textBox120.Size = new System.Drawing.Size(22, 20);
+            this.textBox120.TabIndex = 86;
+            // 
+            // label111
+            // 
+            this.label111.AutoSize = true;
+            this.label111.Location = new System.Drawing.Point(178, 17);
+            this.label111.Name = "label111";
+            this.label111.Size = new System.Drawing.Size(38, 13);
+            this.label111.TabIndex = 85;
+            this.label111.Text = "Hours:";
+            // 
+            // label112
+            // 
+            this.label112.AutoSize = true;
+            this.label112.Location = new System.Drawing.Point(0, 17);
+            this.label112.Name = "label112";
+            this.label112.Size = new System.Drawing.Size(46, 13);
+            this.label112.TabIndex = 83;
+            this.label112.Text = "Classes:";
+            // 
+            // menuStrip1
+            // 
+            this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.saveToolStripMenuItem,
+            this.loadToolStripMenuItem,
+            this.helpToolStripMenuItem});
+            this.menuStrip1.Location = new System.Drawing.Point(0, 0);
+            this.menuStrip1.Name = "menuStrip1";
+            this.menuStrip1.Size = new System.Drawing.Size(1264, 24);
+            this.menuStrip1.TabIndex = 14;
+            this.menuStrip1.Text = "menuStrip1";
+            // 
+            // saveToolStripMenuItem
+            // 
+            this.saveToolStripMenuItem.Name = "saveToolStripMenuItem";
+            this.saveToolStripMenuItem.Size = new System.Drawing.Size(43, 20);
+            this.saveToolStripMenuItem.Text = "Save";
+            this.saveToolStripMenuItem.Click += new System.EventHandler(this.saveToolStripMenuItem_Click);
+            // 
+            // helpToolStripMenuItem
+            // 
+            this.helpToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.justDragClassesToolStripMenuItem,
+            this.intoTheSemestersToolStripMenuItem,
+            this.thenManuallyEnterToolStripMenuItem,
+            this.theHoursIntoTheHourBoxToolStripMenuItem,
+            this.thenAfterYouCompleteTheClassToolStripMenuItem,
+            this.youCanEnterTheGradeAndToolStripMenuItem,
+            this.itWillCalculateYourGPAToolStripMenuItem,
+            this.clickSaveToSaveAllToolStripMenuItem,
+            this.theCurrentValuesInTheFileToolStripMenuItem,
+            this.thenHitLoadToReloadTheLastToolStripMenuItem,
+            this.sessionToolStripMenuItem});
+            this.helpToolStripMenuItem.Name = "helpToolStripMenuItem";
+            this.helpToolStripMenuItem.Size = new System.Drawing.Size(44, 20);
+            this.helpToolStripMenuItem.Text = "Help";
+            // 
+            // justDragClassesToolStripMenuItem
+            // 
+            this.justDragClassesToolStripMenuItem.Name = "justDragClassesToolStripMenuItem";
+            this.justDragClassesToolStripMenuItem.Size = new System.Drawing.Size(252, 22);
+            this.justDragClassesToolStripMenuItem.Text = "Just drag classes";
+            // 
+            // intoTheSemestersToolStripMenuItem
+            // 
+            this.intoTheSemestersToolStripMenuItem.Name = "intoTheSemestersToolStripMenuItem";
+            this.intoTheSemestersToolStripMenuItem.Size = new System.Drawing.Size(252, 22);
+            this.intoTheSemestersToolStripMenuItem.Text = "into the semesters";
+            // 
+            // thenManuallyEnterToolStripMenuItem
+            // 
+            this.thenManuallyEnterToolStripMenuItem.Name = "thenManuallyEnterToolStripMenuItem";
+            this.thenManuallyEnterToolStripMenuItem.Size = new System.Drawing.Size(252, 22);
+            this.thenManuallyEnterToolStripMenuItem.Text = "then manually enter";
+            // 
+            // theHoursIntoTheHourBoxToolStripMenuItem
+            // 
+            this.theHoursIntoTheHourBoxToolStripMenuItem.Name = "theHoursIntoTheHourBoxToolStripMenuItem";
+            this.theHoursIntoTheHourBoxToolStripMenuItem.Size = new System.Drawing.Size(252, 22);
+            this.theHoursIntoTheHourBoxToolStripMenuItem.Text = "the hours into the hour box";
+            // 
+            // thenAfterYouCompleteTheClassToolStripMenuItem
+            // 
+            this.thenAfterYouCompleteTheClassToolStripMenuItem.Name = "thenAfterYouCompleteTheClassToolStripMenuItem";
+            this.thenAfterYouCompleteTheClassToolStripMenuItem.Size = new System.Drawing.Size(252, 22);
+            this.thenAfterYouCompleteTheClassToolStripMenuItem.Text = "Then after you complete the class";
+            // 
+            // youCanEnterTheGradeAndToolStripMenuItem
+            // 
+            this.youCanEnterTheGradeAndToolStripMenuItem.Name = "youCanEnterTheGradeAndToolStripMenuItem";
+            this.youCanEnterTheGradeAndToolStripMenuItem.Size = new System.Drawing.Size(252, 22);
+            this.youCanEnterTheGradeAndToolStripMenuItem.Text = "you can enter the grade and";
+            // 
+            // itWillCalculateYourGPAToolStripMenuItem
+            // 
+            this.itWillCalculateYourGPAToolStripMenuItem.Name = "itWillCalculateYourGPAToolStripMenuItem";
+            this.itWillCalculateYourGPAToolStripMenuItem.Size = new System.Drawing.Size(252, 22);
+            this.itWillCalculateYourGPAToolStripMenuItem.Text = "it will calculate your GPA";
+            // 
+            // loadToolStripMenuItem
+            // 
+            this.loadToolStripMenuItem.Name = "loadToolStripMenuItem";
+            this.loadToolStripMenuItem.Size = new System.Drawing.Size(45, 20);
+            this.loadToolStripMenuItem.Text = "Load";
+            this.loadToolStripMenuItem.Click += new System.EventHandler(this.loadToolStripMenuItem_Click);
+            // 
+            // clickSaveToSaveAllToolStripMenuItem
+            // 
+            this.clickSaveToSaveAllToolStripMenuItem.Name = "clickSaveToSaveAllToolStripMenuItem";
+            this.clickSaveToSaveAllToolStripMenuItem.Size = new System.Drawing.Size(252, 22);
+            this.clickSaveToSaveAllToolStripMenuItem.Text = "Click save to save all";
+            // 
+            // theCurrentValuesInTheFileToolStripMenuItem
+            // 
+            this.theCurrentValuesInTheFileToolStripMenuItem.Name = "theCurrentValuesInTheFileToolStripMenuItem";
+            this.theCurrentValuesInTheFileToolStripMenuItem.Size = new System.Drawing.Size(252, 22);
+            this.theCurrentValuesInTheFileToolStripMenuItem.Text = "the current values in the file";
+            // 
+            // thenHitLoadToReloadTheLastToolStripMenuItem
+            // 
+            this.thenHitLoadToReloadTheLastToolStripMenuItem.Name = "thenHitLoadToReloadTheLastToolStripMenuItem";
+            this.thenHitLoadToReloadTheLastToolStripMenuItem.Size = new System.Drawing.Size(252, 22);
+            this.thenHitLoadToReloadTheLastToolStripMenuItem.Text = "Then hit load to reload the last";
+            // 
+            // sessionToolStripMenuItem
+            // 
+            this.sessionToolStripMenuItem.Name = "sessionToolStripMenuItem";
+            this.sessionToolStripMenuItem.Size = new System.Drawing.Size(252, 22);
+            this.sessionToolStripMenuItem.Text = "session";
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1264, 729);
-            this.Controls.Add(this.label26);
             this.Controls.Add(this.groupBox11);
             this.Controls.Add(this.button3);
             this.Controls.Add(this.button2);
@@ -2391,6 +2968,8 @@
             this.Controls.Add(this.groupBox8);
             this.Controls.Add(this.groupBox2);
             this.Controls.Add(this.groupBox1);
+            this.Controls.Add(this.menuStrip1);
+            this.MainMenuStrip = this.menuStrip1;
             this.Name = "Form1";
             this.Text = "Claender";
             this.Load += new System.EventHandler(this.Form1_Load);
@@ -2410,10 +2989,12 @@
             this.groupBox7.PerformLayout();
             this.groupBox8.ResumeLayout(false);
             this.groupBox8.PerformLayout();
-            this.groupBox9.ResumeLayout(false);
-            this.groupBox9.PerformLayout();
             this.groupBox10.ResumeLayout(false);
             this.groupBox10.PerformLayout();
+            this.groupBox9.ResumeLayout(false);
+            this.groupBox9.PerformLayout();
+            this.menuStrip1.ResumeLayout(false);
+            this.menuStrip1.PerformLayout();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -2431,8 +3012,6 @@
         private System.Windows.Forms.GroupBox groupBox8;
         private System.Windows.Forms.ComboBox comboBox2;
         private System.Windows.Forms.Button button1;
-        private System.Windows.Forms.GroupBox groupBox9;
-        private System.Windows.Forms.GroupBox groupBox10;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label3;
@@ -2449,10 +3028,6 @@
         private System.Windows.Forms.Label label12;
         private System.Windows.Forms.Label label9;
         private System.Windows.Forms.Label label10;
-        private System.Windows.Forms.Label label19;
-        private System.Windows.Forms.Label label20;
-        private System.Windows.Forms.Label label17;
-        private System.Windows.Forms.Label label18;
         private System.Windows.Forms.TreeView treeView1;
         private System.Windows.Forms.ComboBox comboBox1;
         private System.Windows.Forms.Label label22;
@@ -2468,7 +3043,6 @@
         private System.Windows.Forms.TextBox textBox11;
         private System.Windows.Forms.Label label21;
         private System.Windows.Forms.Label label24;
-        private System.Windows.Forms.Label label26;
         private System.Windows.Forms.Label label27;
         private System.Windows.Forms.Label label28;
         private System.Windows.Forms.TextBox textBox1;
@@ -2628,6 +3202,69 @@
         private System.Windows.Forms.TextBox textBox60;
         private System.Windows.Forms.Label label66;
         private System.Windows.Forms.Label label67;
+        private System.Windows.Forms.Label label18;
+        private System.Windows.Forms.Label label17;
+        private System.Windows.Forms.GroupBox groupBox10;
+        private System.Windows.Forms.Label label95;
+        private System.Windows.Forms.Label label96;
+        private System.Windows.Forms.Label label97;
+        private System.Windows.Forms.TextBox textBox97;
+        private System.Windows.Forms.TextBox textBox98;
+        private System.Windows.Forms.TextBox textBox99;
+        private System.Windows.Forms.TextBox textBox100;
+        private System.Windows.Forms.TextBox textBox101;
+        private System.Windows.Forms.TextBox textBox102;
+        private System.Windows.Forms.TextBox textBox103;
+        private System.Windows.Forms.Label label98;
+        private System.Windows.Forms.Label label99;
+        private System.Windows.Forms.Label label100;
+        private System.Windows.Forms.Label label101;
+        private System.Windows.Forms.TextBox textBox104;
+        private System.Windows.Forms.TextBox textBox105;
+        private System.Windows.Forms.TextBox textBox106;
+        private System.Windows.Forms.TextBox textBox107;
+        private System.Windows.Forms.TextBox textBox108;
+        private System.Windows.Forms.Label label102;
+        private System.Windows.Forms.Label label103;
+        private System.Windows.Forms.Label label20;
+        private System.Windows.Forms.Label label19;
+        private System.Windows.Forms.GroupBox groupBox9;
+        private System.Windows.Forms.Label label104;
+        private System.Windows.Forms.Label label105;
+        private System.Windows.Forms.Label label106;
+        private System.Windows.Forms.TextBox textBox109;
+        private System.Windows.Forms.TextBox textBox110;
+        private System.Windows.Forms.TextBox textBox111;
+        private System.Windows.Forms.TextBox textBox112;
+        private System.Windows.Forms.TextBox textBox113;
+        private System.Windows.Forms.TextBox textBox114;
+        private System.Windows.Forms.TextBox textBox115;
+        private System.Windows.Forms.Label label107;
+        private System.Windows.Forms.Label label108;
+        private System.Windows.Forms.Label label109;
+        private System.Windows.Forms.Label label110;
+        private System.Windows.Forms.TextBox textBox116;
+        private System.Windows.Forms.TextBox textBox117;
+        private System.Windows.Forms.TextBox textBox118;
+        private System.Windows.Forms.TextBox textBox119;
+        private System.Windows.Forms.TextBox textBox120;
+        private System.Windows.Forms.Label label111;
+        private System.Windows.Forms.Label label112;
+        private System.Windows.Forms.MenuStrip menuStrip1;
+        private System.Windows.Forms.ToolStripMenuItem saveToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem loadToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem helpToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem justDragClassesToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem intoTheSemestersToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem thenManuallyEnterToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem theHoursIntoTheHourBoxToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem thenAfterYouCompleteTheClassToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem youCanEnterTheGradeAndToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem itWillCalculateYourGPAToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem clickSaveToSaveAllToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem theCurrentValuesInTheFileToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem thenHitLoadToReloadTheLastToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem sessionToolStripMenuItem;
     }
 }
 
