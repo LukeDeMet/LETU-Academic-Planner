@@ -28,33 +28,33 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.Windows.Forms.TreeNode treeNode29 = new System.Windows.Forms.TreeNode("EETC 1021 - DC Electricity Laboratory");
-            System.Windows.Forms.TreeNode treeNode30 = new System.Windows.Forms.TreeNode("EETC 1022 - DC Electricity");
-            System.Windows.Forms.TreeNode treeNode31 = new System.Windows.Forms.TreeNode("EETC 1041 - AC Electricity Laboratory");
-            System.Windows.Forms.TreeNode treeNode32 = new System.Windows.Forms.TreeNode("EETC 1042 - AC Electricity");
-            System.Windows.Forms.TreeNode treeNode33 = new System.Windows.Forms.TreeNode("EETC", new System.Windows.Forms.TreeNode[] {
-            treeNode29,
-            treeNode30,
-            treeNode31,
-            treeNode32});
-            System.Windows.Forms.TreeNode treeNode34 = new System.Windows.Forms.TreeNode("BIBL 1033 - Biblical Literature");
-            System.Windows.Forms.TreeNode treeNode35 = new System.Windows.Forms.TreeNode("BIBL 2000 Level or above Elective (3 Hours)");
-            System.Windows.Forms.TreeNode treeNode36 = new System.Windows.Forms.TreeNode("BIBL", new System.Windows.Forms.TreeNode[] {
-            treeNode34,
-            treeNode35});
-            System.Windows.Forms.TreeNode treeNode37 = new System.Windows.Forms.TreeNode("COSC 1303 - Computer Science I");
-            System.Windows.Forms.TreeNode treeNode38 = new System.Windows.Forms.TreeNode("COSC 2103 - Computer Science II");
-            System.Windows.Forms.TreeNode treeNode39 = new System.Windows.Forms.TreeNode("COSC 2203 - Data Structures");
-            System.Windows.Forms.TreeNode treeNode40 = new System.Windows.Forms.TreeNode("COSC 3303 -Computer Architecture");
-            System.Windows.Forms.TreeNode treeNode41 = new System.Windows.Forms.TreeNode("COSC", new System.Windows.Forms.TreeNode[] {
-            treeNode37,
-            treeNode38,
-            treeNode39,
-            treeNode40});
-            System.Windows.Forms.TreeNode treeNode42 = new System.Windows.Forms.TreeNode("CST", new System.Windows.Forms.TreeNode[] {
-            treeNode33,
-            treeNode36,
-            treeNode41});
+            System.Windows.Forms.TreeNode treeNode1 = new System.Windows.Forms.TreeNode("EETC 1021 - DC Electricity Laboratory");
+            System.Windows.Forms.TreeNode treeNode2 = new System.Windows.Forms.TreeNode("EETC 1022 - DC Electricity");
+            System.Windows.Forms.TreeNode treeNode3 = new System.Windows.Forms.TreeNode("EETC 1041 - AC Electricity Laboratory");
+            System.Windows.Forms.TreeNode treeNode4 = new System.Windows.Forms.TreeNode("EETC 1042 - AC Electricity");
+            System.Windows.Forms.TreeNode treeNode5 = new System.Windows.Forms.TreeNode("EETC", new System.Windows.Forms.TreeNode[] {
+            treeNode1,
+            treeNode2,
+            treeNode3,
+            treeNode4});
+            System.Windows.Forms.TreeNode treeNode6 = new System.Windows.Forms.TreeNode("BIBL 1033 - Biblical Literature");
+            System.Windows.Forms.TreeNode treeNode7 = new System.Windows.Forms.TreeNode("BIBL 2000 Level or above Elective (3 Hours)");
+            System.Windows.Forms.TreeNode treeNode8 = new System.Windows.Forms.TreeNode("BIBL", new System.Windows.Forms.TreeNode[] {
+            treeNode6,
+            treeNode7});
+            System.Windows.Forms.TreeNode treeNode9 = new System.Windows.Forms.TreeNode("COSC 1303 - Computer Science I");
+            System.Windows.Forms.TreeNode treeNode10 = new System.Windows.Forms.TreeNode("COSC 2103 - Computer Science II");
+            System.Windows.Forms.TreeNode treeNode11 = new System.Windows.Forms.TreeNode("COSC 2203 - Data Structures");
+            System.Windows.Forms.TreeNode treeNode12 = new System.Windows.Forms.TreeNode("COSC 3303 -Computer Architecture");
+            System.Windows.Forms.TreeNode treeNode13 = new System.Windows.Forms.TreeNode("COSC", new System.Windows.Forms.TreeNode[] {
+            treeNode9,
+            treeNode10,
+            treeNode11,
+            treeNode12});
+            System.Windows.Forms.TreeNode treeNode14 = new System.Windows.Forms.TreeNode("CST", new System.Windows.Forms.TreeNode[] {
+            treeNode5,
+            treeNode8,
+            treeNode13});
             this.groupBox1 = new System.Windows.Forms.GroupBox();
             this.label31 = new System.Windows.Forms.Label();
             this.label30 = new System.Windows.Forms.Label();
@@ -452,6 +452,7 @@
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(22, 20);
             this.textBox1.TabIndex = 29;
+            this.textBox1.Text = "0";
             // 
             // label28
             // 
@@ -507,6 +508,7 @@
             this.textBox15.Name = "textBox15";
             this.textBox15.Size = new System.Drawing.Size(22, 20);
             this.textBox15.TabIndex = 25;
+            this.textBox15.Text = "0";
             // 
             // textBox14
             // 
@@ -514,6 +516,7 @@
             this.textBox14.Name = "textBox14";
             this.textBox14.Size = new System.Drawing.Size(22, 20);
             this.textBox14.TabIndex = 24;
+            this.textBox14.Text = "0";
             // 
             // textBox13
             // 
@@ -521,6 +524,7 @@
             this.textBox13.Name = "textBox13";
             this.textBox13.Size = new System.Drawing.Size(22, 20);
             this.textBox13.TabIndex = 23;
+            this.textBox13.Text = "0";
             // 
             // textBox12
             // 
@@ -528,6 +532,7 @@
             this.textBox12.Name = "textBox12";
             this.textBox12.Size = new System.Drawing.Size(22, 20);
             this.textBox12.TabIndex = 22;
+            this.textBox12.Text = "0";
             // 
             // textBox11
             // 
@@ -535,6 +540,7 @@
             this.textBox11.Name = "textBox11";
             this.textBox11.Size = new System.Drawing.Size(22, 20);
             this.textBox11.TabIndex = 21;
+            this.textBox11.Text = "0";
             // 
             // label21
             // 
@@ -700,6 +706,7 @@
             this.textBox19.Name = "textBox19";
             this.textBox19.Size = new System.Drawing.Size(22, 20);
             this.textBox19.TabIndex = 50;
+            this.textBox19.Text = "0";
             // 
             // label35
             // 
@@ -755,6 +762,7 @@
             this.textBox20.Name = "textBox20";
             this.textBox20.Size = new System.Drawing.Size(22, 20);
             this.textBox20.TabIndex = 46;
+            this.textBox20.Text = "0";
             // 
             // textBox21
             // 
@@ -762,6 +770,7 @@
             this.textBox21.Name = "textBox21";
             this.textBox21.Size = new System.Drawing.Size(22, 20);
             this.textBox21.TabIndex = 45;
+            this.textBox21.Text = "0";
             // 
             // textBox22
             // 
@@ -769,6 +778,7 @@
             this.textBox22.Name = "textBox22";
             this.textBox22.Size = new System.Drawing.Size(22, 20);
             this.textBox22.TabIndex = 44;
+            this.textBox22.Text = "0";
             // 
             // textBox23
             // 
@@ -776,6 +786,7 @@
             this.textBox23.Name = "textBox23";
             this.textBox23.Size = new System.Drawing.Size(22, 20);
             this.textBox23.TabIndex = 43;
+            this.textBox23.Text = "0";
             // 
             // textBox24
             // 
@@ -783,6 +794,7 @@
             this.textBox24.Name = "textBox24";
             this.textBox24.Size = new System.Drawing.Size(22, 20);
             this.textBox24.TabIndex = 42;
+            this.textBox24.Text = "0";
             // 
             // label39
             // 
@@ -940,6 +952,7 @@
             this.textBox31.Name = "textBox31";
             this.textBox31.Size = new System.Drawing.Size(22, 20);
             this.textBox31.TabIndex = 50;
+            this.textBox31.Text = "0";
             // 
             // label44
             // 
@@ -995,6 +1008,7 @@
             this.textBox32.Name = "textBox32";
             this.textBox32.Size = new System.Drawing.Size(22, 20);
             this.textBox32.TabIndex = 46;
+            this.textBox32.Text = "0";
             // 
             // textBox33
             // 
@@ -1002,6 +1016,7 @@
             this.textBox33.Name = "textBox33";
             this.textBox33.Size = new System.Drawing.Size(22, 20);
             this.textBox33.TabIndex = 45;
+            this.textBox33.Text = "0";
             // 
             // textBox34
             // 
@@ -1009,6 +1024,7 @@
             this.textBox34.Name = "textBox34";
             this.textBox34.Size = new System.Drawing.Size(22, 20);
             this.textBox34.TabIndex = 44;
+            this.textBox34.Text = "0";
             // 
             // textBox35
             // 
@@ -1016,6 +1032,7 @@
             this.textBox35.Name = "textBox35";
             this.textBox35.Size = new System.Drawing.Size(22, 20);
             this.textBox35.TabIndex = 43;
+            this.textBox35.Text = "0";
             // 
             // textBox36
             // 
@@ -1023,6 +1040,7 @@
             this.textBox36.Name = "textBox36";
             this.textBox36.Size = new System.Drawing.Size(22, 20);
             this.textBox36.TabIndex = 42;
+            this.textBox36.Text = "0";
             // 
             // label48
             // 
@@ -1180,6 +1198,7 @@
             this.textBox43.Name = "textBox43";
             this.textBox43.Size = new System.Drawing.Size(22, 20);
             this.textBox43.TabIndex = 50;
+            this.textBox43.Text = "0";
             // 
             // label53
             // 
@@ -1235,6 +1254,7 @@
             this.textBox44.Name = "textBox44";
             this.textBox44.Size = new System.Drawing.Size(22, 20);
             this.textBox44.TabIndex = 46;
+            this.textBox44.Text = "0";
             // 
             // textBox45
             // 
@@ -1242,6 +1262,7 @@
             this.textBox45.Name = "textBox45";
             this.textBox45.Size = new System.Drawing.Size(22, 20);
             this.textBox45.TabIndex = 45;
+            this.textBox45.Text = "0";
             // 
             // textBox46
             // 
@@ -1249,6 +1270,7 @@
             this.textBox46.Name = "textBox46";
             this.textBox46.Size = new System.Drawing.Size(22, 20);
             this.textBox46.TabIndex = 44;
+            this.textBox46.Text = "0";
             // 
             // textBox47
             // 
@@ -1256,6 +1278,7 @@
             this.textBox47.Name = "textBox47";
             this.textBox47.Size = new System.Drawing.Size(22, 20);
             this.textBox47.TabIndex = 43;
+            this.textBox47.Text = "0";
             // 
             // textBox48
             // 
@@ -1263,6 +1286,7 @@
             this.textBox48.Name = "textBox48";
             this.textBox48.Size = new System.Drawing.Size(22, 20);
             this.textBox48.TabIndex = 42;
+            this.textBox48.Text = "0";
             // 
             // label57
             // 
@@ -1420,6 +1444,7 @@
             this.textBox91.Name = "textBox91";
             this.textBox91.Size = new System.Drawing.Size(22, 20);
             this.textBox91.TabIndex = 50;
+            this.textBox91.Text = "0";
             // 
             // label89
             // 
@@ -1475,6 +1500,7 @@
             this.textBox92.Name = "textBox92";
             this.textBox92.Size = new System.Drawing.Size(22, 20);
             this.textBox92.TabIndex = 46;
+            this.textBox92.Text = "0";
             // 
             // textBox93
             // 
@@ -1482,6 +1508,7 @@
             this.textBox93.Name = "textBox93";
             this.textBox93.Size = new System.Drawing.Size(22, 20);
             this.textBox93.TabIndex = 45;
+            this.textBox93.Text = "0";
             // 
             // textBox94
             // 
@@ -1489,6 +1516,7 @@
             this.textBox94.Name = "textBox94";
             this.textBox94.Size = new System.Drawing.Size(22, 20);
             this.textBox94.TabIndex = 44;
+            this.textBox94.Text = "0";
             // 
             // textBox95
             // 
@@ -1496,6 +1524,7 @@
             this.textBox95.Name = "textBox95";
             this.textBox95.Size = new System.Drawing.Size(22, 20);
             this.textBox95.TabIndex = 43;
+            this.textBox95.Text = "0";
             // 
             // textBox96
             // 
@@ -1503,6 +1532,7 @@
             this.textBox96.Name = "textBox96";
             this.textBox96.Size = new System.Drawing.Size(22, 20);
             this.textBox96.TabIndex = 42;
+            this.textBox96.Text = "0";
             // 
             // label93
             // 
@@ -1660,6 +1690,7 @@
             this.textBox79.Name = "textBox79";
             this.textBox79.Size = new System.Drawing.Size(22, 20);
             this.textBox79.TabIndex = 50;
+            this.textBox79.Text = "0";
             // 
             // label80
             // 
@@ -1715,6 +1746,7 @@
             this.textBox80.Name = "textBox80";
             this.textBox80.Size = new System.Drawing.Size(22, 20);
             this.textBox80.TabIndex = 46;
+            this.textBox80.Text = "0";
             // 
             // textBox81
             // 
@@ -1722,6 +1754,7 @@
             this.textBox81.Name = "textBox81";
             this.textBox81.Size = new System.Drawing.Size(22, 20);
             this.textBox81.TabIndex = 45;
+            this.textBox81.Text = "0";
             // 
             // textBox82
             // 
@@ -1729,6 +1762,7 @@
             this.textBox82.Name = "textBox82";
             this.textBox82.Size = new System.Drawing.Size(22, 20);
             this.textBox82.TabIndex = 44;
+            this.textBox82.Text = "0";
             // 
             // textBox83
             // 
@@ -1736,6 +1770,7 @@
             this.textBox83.Name = "textBox83";
             this.textBox83.Size = new System.Drawing.Size(22, 20);
             this.textBox83.TabIndex = 43;
+            this.textBox83.Text = "0";
             // 
             // textBox84
             // 
@@ -1743,6 +1778,7 @@
             this.textBox84.Name = "textBox84";
             this.textBox84.Size = new System.Drawing.Size(22, 20);
             this.textBox84.TabIndex = 42;
+            this.textBox84.Text = "0";
             // 
             // label84
             // 
@@ -1900,6 +1936,7 @@
             this.textBox67.Name = "textBox67";
             this.textBox67.Size = new System.Drawing.Size(22, 20);
             this.textBox67.TabIndex = 50;
+            this.textBox67.Text = "0";
             // 
             // label71
             // 
@@ -1955,6 +1992,7 @@
             this.textBox68.Name = "textBox68";
             this.textBox68.Size = new System.Drawing.Size(22, 20);
             this.textBox68.TabIndex = 46;
+            this.textBox68.Text = "0";
             // 
             // textBox69
             // 
@@ -1962,6 +2000,7 @@
             this.textBox69.Name = "textBox69";
             this.textBox69.Size = new System.Drawing.Size(22, 20);
             this.textBox69.TabIndex = 45;
+            this.textBox69.Text = "0";
             // 
             // textBox70
             // 
@@ -1969,6 +2008,7 @@
             this.textBox70.Name = "textBox70";
             this.textBox70.Size = new System.Drawing.Size(22, 20);
             this.textBox70.TabIndex = 44;
+            this.textBox70.Text = "0";
             // 
             // textBox71
             // 
@@ -1976,6 +2016,7 @@
             this.textBox71.Name = "textBox71";
             this.textBox71.Size = new System.Drawing.Size(22, 20);
             this.textBox71.TabIndex = 43;
+            this.textBox71.Text = "0";
             // 
             // textBox72
             // 
@@ -1983,6 +2024,7 @@
             this.textBox72.Name = "textBox72";
             this.textBox72.Size = new System.Drawing.Size(22, 20);
             this.textBox72.TabIndex = 42;
+            this.textBox72.Text = "0";
             // 
             // label75
             // 
@@ -2140,6 +2182,7 @@
             this.textBox55.Name = "textBox55";
             this.textBox55.Size = new System.Drawing.Size(22, 20);
             this.textBox55.TabIndex = 50;
+            this.textBox55.Text = "0";
             // 
             // label62
             // 
@@ -2195,6 +2238,7 @@
             this.textBox56.Name = "textBox56";
             this.textBox56.Size = new System.Drawing.Size(22, 20);
             this.textBox56.TabIndex = 46;
+            this.textBox56.Text = "0";
             // 
             // textBox57
             // 
@@ -2202,6 +2246,7 @@
             this.textBox57.Name = "textBox57";
             this.textBox57.Size = new System.Drawing.Size(22, 20);
             this.textBox57.TabIndex = 45;
+            this.textBox57.Text = "0";
             // 
             // textBox58
             // 
@@ -2209,6 +2254,7 @@
             this.textBox58.Name = "textBox58";
             this.textBox58.Size = new System.Drawing.Size(22, 20);
             this.textBox58.TabIndex = 44;
+            this.textBox58.Text = "0";
             // 
             // textBox59
             // 
@@ -2216,6 +2262,7 @@
             this.textBox59.Name = "textBox59";
             this.textBox59.Size = new System.Drawing.Size(22, 20);
             this.textBox59.TabIndex = 43;
+            this.textBox59.Text = "0";
             // 
             // textBox60
             // 
@@ -2223,6 +2270,7 @@
             this.textBox60.Name = "textBox60";
             this.textBox60.Size = new System.Drawing.Size(22, 20);
             this.textBox60.TabIndex = 42;
+            this.textBox60.Text = "0";
             // 
             // label66
             // 
@@ -2298,36 +2346,36 @@
             this.treeView1.AllowDrop = true;
             this.treeView1.Location = new System.Drawing.Point(16, 56);
             this.treeView1.Name = "treeView1";
-            treeNode29.Name = "Node13";
-            treeNode29.Text = "EETC 1021 - DC Electricity Laboratory";
-            treeNode30.Name = "Node15";
-            treeNode30.Text = "EETC 1022 - DC Electricity";
-            treeNode31.Name = "Node16";
-            treeNode31.Text = "EETC 1041 - AC Electricity Laboratory";
-            treeNode32.Name = "Node17";
-            treeNode32.Text = "EETC 1042 - AC Electricity";
-            treeNode33.Name = "Node11";
-            treeNode33.Text = "EETC";
-            treeNode34.Name = "Node9";
-            treeNode34.Text = "BIBL 1033 - Biblical Literature";
-            treeNode35.Name = "Node10";
-            treeNode35.Text = "BIBL 2000 Level or above Elective (3 Hours)";
-            treeNode36.Name = "Node8";
-            treeNode36.Text = "BIBL";
-            treeNode37.Name = "Node3";
-            treeNode37.Text = "COSC 1303 - Computer Science I";
-            treeNode38.Name = "Node4";
-            treeNode38.Text = "COSC 2103 - Computer Science II";
-            treeNode39.Name = "Node6";
-            treeNode39.Text = "COSC 2203 - Data Structures";
-            treeNode40.Name = "Node7";
-            treeNode40.Text = "COSC 3303 -Computer Architecture";
-            treeNode41.Name = "COSC";
-            treeNode41.Text = "COSC";
-            treeNode42.Name = "Node18";
-            treeNode42.Text = "CST";
+            treeNode1.Name = "Node13";
+            treeNode1.Text = "EETC 1021 - DC Electricity Laboratory";
+            treeNode2.Name = "Node15";
+            treeNode2.Text = "EETC 1022 - DC Electricity";
+            treeNode3.Name = "Node16";
+            treeNode3.Text = "EETC 1041 - AC Electricity Laboratory";
+            treeNode4.Name = "Node17";
+            treeNode4.Text = "EETC 1042 - AC Electricity";
+            treeNode5.Name = "Node11";
+            treeNode5.Text = "EETC";
+            treeNode6.Name = "Node9";
+            treeNode6.Text = "BIBL 1033 - Biblical Literature";
+            treeNode7.Name = "Node10";
+            treeNode7.Text = "BIBL 2000 Level or above Elective (3 Hours)";
+            treeNode8.Name = "Node8";
+            treeNode8.Text = "BIBL";
+            treeNode9.Name = "Node3";
+            treeNode9.Text = "COSC 1303 - Computer Science I";
+            treeNode10.Name = "Node4";
+            treeNode10.Text = "COSC 2103 - Computer Science II";
+            treeNode11.Name = "Node6";
+            treeNode11.Text = "COSC 2203 - Data Structures";
+            treeNode12.Name = "Node7";
+            treeNode12.Text = "COSC 3303 -Computer Architecture";
+            treeNode13.Name = "COSC";
+            treeNode13.Text = "COSC";
+            treeNode14.Name = "Node18";
+            treeNode14.Text = "CST";
             this.treeView1.Nodes.AddRange(new System.Windows.Forms.TreeNode[] {
-            treeNode42});
+            treeNode14});
             this.treeView1.Size = new System.Drawing.Size(185, 543);
             this.treeView1.TabIndex = 10;
             this.treeView1.ItemDrag += new System.Windows.Forms.ItemDragEventHandler(this.treeView1_ItemDrag);
@@ -2496,6 +2544,7 @@
             this.textBox103.Name = "textBox103";
             this.textBox103.Size = new System.Drawing.Size(22, 20);
             this.textBox103.TabIndex = 73;
+            this.textBox103.Text = "0";
             // 
             // label98
             // 
@@ -2551,6 +2600,7 @@
             this.textBox104.Name = "textBox104";
             this.textBox104.Size = new System.Drawing.Size(22, 20);
             this.textBox104.TabIndex = 69;
+            this.textBox104.Text = "0";
             // 
             // textBox105
             // 
@@ -2558,6 +2608,7 @@
             this.textBox105.Name = "textBox105";
             this.textBox105.Size = new System.Drawing.Size(22, 20);
             this.textBox105.TabIndex = 68;
+            this.textBox105.Text = "0";
             // 
             // textBox106
             // 
@@ -2565,6 +2616,7 @@
             this.textBox106.Name = "textBox106";
             this.textBox106.Size = new System.Drawing.Size(22, 20);
             this.textBox106.TabIndex = 67;
+            this.textBox106.Text = "0";
             // 
             // textBox107
             // 
@@ -2572,6 +2624,7 @@
             this.textBox107.Name = "textBox107";
             this.textBox107.Size = new System.Drawing.Size(22, 20);
             this.textBox107.TabIndex = 66;
+            this.textBox107.Text = "0";
             // 
             // textBox108
             // 
@@ -2579,6 +2632,7 @@
             this.textBox108.Name = "textBox108";
             this.textBox108.Size = new System.Drawing.Size(22, 20);
             this.textBox108.TabIndex = 65;
+            this.textBox108.Text = "0";
             // 
             // label102
             // 
@@ -2735,6 +2789,7 @@
             this.textBox115.Name = "textBox115";
             this.textBox115.Size = new System.Drawing.Size(22, 20);
             this.textBox115.TabIndex = 94;
+            this.textBox115.Text = "0";
             // 
             // label107
             // 
@@ -2790,6 +2845,7 @@
             this.textBox116.Name = "textBox116";
             this.textBox116.Size = new System.Drawing.Size(22, 20);
             this.textBox116.TabIndex = 90;
+            this.textBox116.Text = "0";
             // 
             // textBox117
             // 
@@ -2797,6 +2853,7 @@
             this.textBox117.Name = "textBox117";
             this.textBox117.Size = new System.Drawing.Size(22, 20);
             this.textBox117.TabIndex = 89;
+            this.textBox117.Text = "0";
             // 
             // textBox118
             // 
@@ -2804,6 +2861,7 @@
             this.textBox118.Name = "textBox118";
             this.textBox118.Size = new System.Drawing.Size(22, 20);
             this.textBox118.TabIndex = 88;
+            this.textBox118.Text = "0";
             // 
             // textBox119
             // 
@@ -2811,6 +2869,7 @@
             this.textBox119.Name = "textBox119";
             this.textBox119.Size = new System.Drawing.Size(22, 20);
             this.textBox119.TabIndex = 87;
+            this.textBox119.Text = "0";
             // 
             // textBox120
             // 
@@ -2818,6 +2877,7 @@
             this.textBox120.Name = "textBox120";
             this.textBox120.Size = new System.Drawing.Size(22, 20);
             this.textBox120.TabIndex = 86;
+            this.textBox120.Text = "0";
             // 
             // label111
             // 
@@ -2983,7 +3043,7 @@
             this.Controls.Add(this.menuStrip1);
             this.MainMenuStrip = this.menuStrip1;
             this.Name = "Form1";
-            this.Text = "Claender";
+            this.Text = "0";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
