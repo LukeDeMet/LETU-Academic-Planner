@@ -28,33 +28,33 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.Windows.Forms.TreeNode treeNode71 = new System.Windows.Forms.TreeNode("EETC 1021 - DC Electricity Laboratory");
-            System.Windows.Forms.TreeNode treeNode72 = new System.Windows.Forms.TreeNode("EETC 1022 - DC Electricity");
-            System.Windows.Forms.TreeNode treeNode73 = new System.Windows.Forms.TreeNode("EETC 1041 - AC Electricity Laboratory");
-            System.Windows.Forms.TreeNode treeNode74 = new System.Windows.Forms.TreeNode("EETC 1042 - AC Electricity");
-            System.Windows.Forms.TreeNode treeNode75 = new System.Windows.Forms.TreeNode("EETC", new System.Windows.Forms.TreeNode[] {
-            treeNode71,
-            treeNode72,
-            treeNode73,
-            treeNode74});
-            System.Windows.Forms.TreeNode treeNode76 = new System.Windows.Forms.TreeNode("BIBL 1033 - Biblical Literature");
-            System.Windows.Forms.TreeNode treeNode77 = new System.Windows.Forms.TreeNode("BIBL 2000 Level or above Elective (3 Hours)");
-            System.Windows.Forms.TreeNode treeNode78 = new System.Windows.Forms.TreeNode("BIBL", new System.Windows.Forms.TreeNode[] {
-            treeNode76,
-            treeNode77});
-            System.Windows.Forms.TreeNode treeNode79 = new System.Windows.Forms.TreeNode("COSC 1303 - Computer Science I");
-            System.Windows.Forms.TreeNode treeNode80 = new System.Windows.Forms.TreeNode("COSC 2103 - Computer Science II");
-            System.Windows.Forms.TreeNode treeNode81 = new System.Windows.Forms.TreeNode("COSC 2203 - Data Structures");
-            System.Windows.Forms.TreeNode treeNode82 = new System.Windows.Forms.TreeNode("COSC 3303 -Computer Architecture");
-            System.Windows.Forms.TreeNode treeNode83 = new System.Windows.Forms.TreeNode("COSC", new System.Windows.Forms.TreeNode[] {
-            treeNode79,
-            treeNode80,
-            treeNode81,
-            treeNode82});
-            System.Windows.Forms.TreeNode treeNode84 = new System.Windows.Forms.TreeNode("CST", new System.Windows.Forms.TreeNode[] {
-            treeNode75,
-            treeNode78,
-            treeNode83});
+            System.Windows.Forms.TreeNode treeNode29 = new System.Windows.Forms.TreeNode("EETC 1021 - DC Electricity Laboratory");
+            System.Windows.Forms.TreeNode treeNode30 = new System.Windows.Forms.TreeNode("EETC 1022 - DC Electricity");
+            System.Windows.Forms.TreeNode treeNode31 = new System.Windows.Forms.TreeNode("EETC 1041 - AC Electricity Laboratory");
+            System.Windows.Forms.TreeNode treeNode32 = new System.Windows.Forms.TreeNode("EETC 1042 - AC Electricity");
+            System.Windows.Forms.TreeNode treeNode33 = new System.Windows.Forms.TreeNode("EETC", new System.Windows.Forms.TreeNode[] {
+            treeNode29,
+            treeNode30,
+            treeNode31,
+            treeNode32});
+            System.Windows.Forms.TreeNode treeNode34 = new System.Windows.Forms.TreeNode("BIBL 1033 - Biblical Literature");
+            System.Windows.Forms.TreeNode treeNode35 = new System.Windows.Forms.TreeNode("BIBL 2000 Level or above Elective (3 Hours)");
+            System.Windows.Forms.TreeNode treeNode36 = new System.Windows.Forms.TreeNode("BIBL", new System.Windows.Forms.TreeNode[] {
+            treeNode34,
+            treeNode35});
+            System.Windows.Forms.TreeNode treeNode37 = new System.Windows.Forms.TreeNode("COSC 1303 - Computer Science I");
+            System.Windows.Forms.TreeNode treeNode38 = new System.Windows.Forms.TreeNode("COSC 2103 - Computer Science II");
+            System.Windows.Forms.TreeNode treeNode39 = new System.Windows.Forms.TreeNode("COSC 2203 - Data Structures");
+            System.Windows.Forms.TreeNode treeNode40 = new System.Windows.Forms.TreeNode("COSC 3303 -Computer Architecture");
+            System.Windows.Forms.TreeNode treeNode41 = new System.Windows.Forms.TreeNode("COSC", new System.Windows.Forms.TreeNode[] {
+            treeNode37,
+            treeNode38,
+            treeNode39,
+            treeNode40});
+            System.Windows.Forms.TreeNode treeNode42 = new System.Windows.Forms.TreeNode("CST", new System.Windows.Forms.TreeNode[] {
+            treeNode33,
+            treeNode36,
+            treeNode41});
             this.groupBox1 = new System.Windows.Forms.GroupBox();
             this.label31 = new System.Windows.Forms.Label();
             this.label30 = new System.Windows.Forms.Label();
@@ -305,6 +305,7 @@
             this.label112 = new System.Windows.Forms.Label();
             this.menuStrip1 = new System.Windows.Forms.MenuStrip();
             this.saveToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.loadToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.helpToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.justDragClassesToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.intoTheSemestersToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
@@ -313,11 +314,11 @@
             this.thenAfterYouCompleteTheClassToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.youCanEnterTheGradeAndToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.itWillCalculateYourGPAToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.loadToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.clickSaveToSaveAllToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.theCurrentValuesInTheFileToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.thenHitLoadToReloadTheLastToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.sessionToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.button4 = new System.Windows.Forms.Button();
             this.groupBox1.SuspendLayout();
             this.groupBox2.SuspendLayout();
             this.groupBox3.SuspendLayout();
@@ -2297,36 +2298,36 @@
             this.treeView1.AllowDrop = true;
             this.treeView1.Location = new System.Drawing.Point(16, 56);
             this.treeView1.Name = "treeView1";
-            treeNode71.Name = "Node13";
-            treeNode71.Text = "EETC 1021 - DC Electricity Laboratory";
-            treeNode72.Name = "Node15";
-            treeNode72.Text = "EETC 1022 - DC Electricity";
-            treeNode73.Name = "Node16";
-            treeNode73.Text = "EETC 1041 - AC Electricity Laboratory";
-            treeNode74.Name = "Node17";
-            treeNode74.Text = "EETC 1042 - AC Electricity";
-            treeNode75.Name = "Node11";
-            treeNode75.Text = "EETC";
-            treeNode76.Name = "Node9";
-            treeNode76.Text = "BIBL 1033 - Biblical Literature";
-            treeNode77.Name = "Node10";
-            treeNode77.Text = "BIBL 2000 Level or above Elective (3 Hours)";
-            treeNode78.Name = "Node8";
-            treeNode78.Text = "BIBL";
-            treeNode79.Name = "Node3";
-            treeNode79.Text = "COSC 1303 - Computer Science I";
-            treeNode80.Name = "Node4";
-            treeNode80.Text = "COSC 2103 - Computer Science II";
-            treeNode81.Name = "Node6";
-            treeNode81.Text = "COSC 2203 - Data Structures";
-            treeNode82.Name = "Node7";
-            treeNode82.Text = "COSC 3303 -Computer Architecture";
-            treeNode83.Name = "COSC";
-            treeNode83.Text = "COSC";
-            treeNode84.Name = "Node18";
-            treeNode84.Text = "CST";
+            treeNode29.Name = "Node13";
+            treeNode29.Text = "EETC 1021 - DC Electricity Laboratory";
+            treeNode30.Name = "Node15";
+            treeNode30.Text = "EETC 1022 - DC Electricity";
+            treeNode31.Name = "Node16";
+            treeNode31.Text = "EETC 1041 - AC Electricity Laboratory";
+            treeNode32.Name = "Node17";
+            treeNode32.Text = "EETC 1042 - AC Electricity";
+            treeNode33.Name = "Node11";
+            treeNode33.Text = "EETC";
+            treeNode34.Name = "Node9";
+            treeNode34.Text = "BIBL 1033 - Biblical Literature";
+            treeNode35.Name = "Node10";
+            treeNode35.Text = "BIBL 2000 Level or above Elective (3 Hours)";
+            treeNode36.Name = "Node8";
+            treeNode36.Text = "BIBL";
+            treeNode37.Name = "Node3";
+            treeNode37.Text = "COSC 1303 - Computer Science I";
+            treeNode38.Name = "Node4";
+            treeNode38.Text = "COSC 2103 - Computer Science II";
+            treeNode39.Name = "Node6";
+            treeNode39.Text = "COSC 2203 - Data Structures";
+            treeNode40.Name = "Node7";
+            treeNode40.Text = "COSC 3303 -Computer Architecture";
+            treeNode41.Name = "COSC";
+            treeNode41.Text = "COSC";
+            treeNode42.Name = "Node18";
+            treeNode42.Text = "CST";
             this.treeView1.Nodes.AddRange(new System.Windows.Forms.TreeNode[] {
-            treeNode84});
+            treeNode42});
             this.treeView1.Size = new System.Drawing.Size(185, 543);
             this.treeView1.TabIndex = 10;
             this.treeView1.ItemDrag += new System.Windows.Forms.ItemDragEventHandler(this.treeView1_ItemDrag);
@@ -2855,6 +2856,13 @@
             this.saveToolStripMenuItem.Text = "Save";
             this.saveToolStripMenuItem.Click += new System.EventHandler(this.saveToolStripMenuItem_Click);
             // 
+            // loadToolStripMenuItem
+            // 
+            this.loadToolStripMenuItem.Name = "loadToolStripMenuItem";
+            this.loadToolStripMenuItem.Size = new System.Drawing.Size(45, 20);
+            this.loadToolStripMenuItem.Text = "Load";
+            this.loadToolStripMenuItem.Click += new System.EventHandler(this.loadToolStripMenuItem_Click);
+            // 
             // helpToolStripMenuItem
             // 
             this.helpToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
@@ -2915,13 +2923,6 @@
             this.itWillCalculateYourGPAToolStripMenuItem.Size = new System.Drawing.Size(252, 22);
             this.itWillCalculateYourGPAToolStripMenuItem.Text = "it will calculate your GPA";
             // 
-            // loadToolStripMenuItem
-            // 
-            this.loadToolStripMenuItem.Name = "loadToolStripMenuItem";
-            this.loadToolStripMenuItem.Size = new System.Drawing.Size(45, 20);
-            this.loadToolStripMenuItem.Text = "Load";
-            this.loadToolStripMenuItem.Click += new System.EventHandler(this.loadToolStripMenuItem_Click);
-            // 
             // clickSaveToSaveAllToolStripMenuItem
             // 
             this.clickSaveToSaveAllToolStripMenuItem.Name = "clickSaveToSaveAllToolStripMenuItem";
@@ -2946,11 +2947,22 @@
             this.sessionToolStripMenuItem.Size = new System.Drawing.Size(252, 22);
             this.sessionToolStripMenuItem.Text = "session";
             // 
+            // button4
+            // 
+            this.button4.Location = new System.Drawing.Point(807, 525);
+            this.button4.Name = "button4";
+            this.button4.Size = new System.Drawing.Size(100, 23);
+            this.button4.TabIndex = 15;
+            this.button4.Text = "Calculate";
+            this.button4.UseVisualStyleBackColor = true;
+            this.button4.Click += new System.EventHandler(this.button4_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1264, 729);
+            this.Controls.Add(this.button4);
             this.Controls.Add(this.groupBox11);
             this.Controls.Add(this.button3);
             this.Controls.Add(this.button2);
@@ -3265,6 +3277,7 @@
         private System.Windows.Forms.ToolStripMenuItem theCurrentValuesInTheFileToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem thenHitLoadToReloadTheLastToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem sessionToolStripMenuItem;
+        private System.Windows.Forms.Button button4;
     }
 }
 

@@ -747,6 +747,101 @@ namespace claendermockup
             textBox120.Text = Settings1.Default.Hours96; textBox109.Text = Settings1.Default.Grade96;  label104.Text = Settings1.Default.Class96;
 
         }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            int a = 0, b = 0, c = 0, d = 0, f = 0, g = 0, h = 0, j = 0;
+            a = Int32.Parse(textBox11.Text);
+            b = Int32.Parse(textBox12.Text);
+            c = Int32.Parse(textBox12.Text);
+            d = Int32.Parse(textBox12.Text);
+            f = Int32.Parse(textBox12.Text);
+            g = Int32.Parse(textBox1.Text);
+            h = a + b + c + d + f + g;
+            label2.Text = h.ToString() + " Hours";
+
+            a = Int32.Parse(textBox24.Text);
+            b = Int32.Parse(textBox23.Text);
+            c = Int32.Parse(textBox22.Text);
+            d = Int32.Parse(textBox21.Text);
+            f = Int32.Parse(textBox20.Text);
+            g = Int32.Parse(textBox19.Text);
+            h = a + b + c + d + f + g;
+            label3.Text = h.ToString() + " Hours";
+
+            a = Int32.Parse(textBox36.Text);
+            b = Int32.Parse(textBox35.Text);
+            c = Int32.Parse(textBox34.Text);
+            d = Int32.Parse(textBox33.Text);
+            f = Int32.Parse(textBox32.Text);
+            g = Int32.Parse(textBox31.Text);
+            h = a + b + c + d + f + g;
+            label5.Text = h.ToString() + " Hours";
+
+            a = Int32.Parse(textBox48.Text);
+            b = Int32.Parse(textBox47.Text);
+            c = Int32.Parse(textBox46.Text);
+            d = Int32.Parse(textBox45.Text);
+            f = Int32.Parse(textBox44.Text);
+            g = Int32.Parse(textBox43.Text);
+            h = a + b + c + d + f + g;
+            label7.Text = h.ToString() + " Hours";
+
+            a = Int32.Parse(textBox120.Text);
+            b = Int32.Parse(textBox119.Text);
+            c = Int32.Parse(textBox118.Text);
+            d = Int32.Parse(textBox117.Text);
+            f = Int32.Parse(textBox116.Text);
+            g = Int32.Parse(textBox115.Text);
+            h = a + b + c + d + f + g;
+            label9.Text = h.ToString() + " Hours";
+
+            a = Int32.Parse(textBox60.Text);
+            b = Int32.Parse(textBox59.Text);
+            c = Int32.Parse(textBox58.Text);
+            d = Int32.Parse(textBox57.Text);
+            f = Int32.Parse(textBox56.Text);
+            g = Int32.Parse(textBox55.Text);
+            h = a + b + c + d + f + g;
+            label11.Text = h.ToString() + " Hours";
+
+            a = Int32.Parse(textBox72.Text);
+            b = Int32.Parse(textBox71.Text);
+            c = Int32.Parse(textBox70.Text);
+            d = Int32.Parse(textBox69.Text);
+            f = Int32.Parse(textBox68.Text);
+            g = Int32.Parse(textBox67.Text);
+            h = a + b + c + d + f + g;
+            label13.Text = h.ToString() + " Hours";
+
+            a = Int32.Parse(textBox84.Text);
+            b = Int32.Parse(textBox83.Text);
+            c = Int32.Parse(textBox82.Text);
+            d = Int32.Parse(textBox81.Text);
+            f = Int32.Parse(textBox80.Text);
+            g = Int32.Parse(textBox79.Text);
+            h = a + b + c + d + f + g;
+            label15.Text = h.ToString() + " Hours";
+
+            a = Int32.Parse(textBox96.Text);
+            b = Int32.Parse(textBox95.Text);
+            c = Int32.Parse(textBox94.Text);
+            d = Int32.Parse(textBox93.Text);
+            f = Int32.Parse(textBox92.Text);
+            g = Int32.Parse(textBox91.Text);
+            h = a + b + c + d + f + g;
+            label17.Text = h.ToString() + " Hours";
+
+            a = Int32.Parse(textBox108.Text);
+            b = Int32.Parse(textBox107.Text);
+            c = Int32.Parse(textBox106.Text);
+            d = Int32.Parse(textBox105.Text);
+            f = Int32.Parse(textBox104.Text);
+            g = Int32.Parse(textBox103.Text);
+            h = a + b + c + d + f + g;
+            label19.Text = h.ToString() + " Hours";
+
+        }
     }
 }
 
